@@ -1,0 +1,25 @@
+{
+  "name": "dysgu-cymraeg",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "audio:manifest": "node scripts/build-audio-manifest.mjs",
+    "audio:missing": "node scripts/audio-checklist.mjs",
+    "predev": "npm run audio:manifest",
+    "dev": "next dev",
+    "prebuild": "npm run audio:manifest",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}

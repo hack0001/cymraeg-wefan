@@ -1,0 +1,509 @@
+[
+ {
+  "id": "greetings",
+  "title": "Greetings",
+  "cy": "Cyfarchion",
+  "blurb": "Say hello, goodbye and thank you.",
+  "items": [
+   {
+    "cy": "Helo",
+    "en": "Hello",
+    "pr": "HEL-o"
+   },
+   {
+    "cy": "Sut mae?",
+    "en": "How are you? / Hi",
+    "pr": "sit my"
+   },
+   {
+    "cy": "Bore da",
+    "en": "Good morning",
+    "pr": "BO-reh dah"
+   },
+   {
+    "cy": "Prynhawn da",
+    "en": "Good afternoon",
+    "pr": "PRUN-hown dah"
+   },
+   {
+    "cy": "Noswaith dda",
+    "en": "Good evening",
+    "pr": "NOS-wyth thah"
+   },
+   {
+    "cy": "Nos da",
+    "en": "Good night",
+    "pr": "nohs dah"
+   },
+   {
+    "cy": "Hwyl fawr",
+    "en": "Goodbye",
+    "pr": "hooil vowr"
+   },
+   {
+    "cy": "Diolch",
+    "en": "Thank you",
+    "pr": "DEE-olch"
+   },
+   {
+    "cy": "Da iawn, diolch",
+    "en": "Very well, thanks",
+    "pr": "dah yown, DEE-olch"
+   },
+   {
+    "cy": "Os gwelwch yn dda",
+    "en": "Please",
+    "pr": "os GWEL-ooch un thah"
+   },
+   {
+    "cy": "Croeso",
+    "en": "Welcome",
+    "pr": "KROY-so"
+   },
+   {
+    "cy": "Iechyd da",
+    "en": "Cheers",
+    "pr": "YECH-id dah"
+   }
+  ]
+ },
+ {
+  "id": "numbers",
+  "title": "Numbers 1 to 10",
+  "cy": "Rhifau",
+  "blurb": "Count to ten.",
+  "items": [
+   {
+    "cy": "un",
+    "en": "one",
+    "pr": "een"
+   },
+   {
+    "cy": "dau",
+    "en": "two",
+    "pr": "die"
+   },
+   {
+    "cy": "tri",
+    "en": "three",
+    "pr": "tree"
+   },
+   {
+    "cy": "pedwar",
+    "en": "four",
+    "pr": "PED-war"
+   },
+   {
+    "cy": "pump",
+    "en": "five",
+    "pr": "pimp"
+   },
+   {
+    "cy": "chwech",
+    "en": "six",
+    "pr": "khwekh"
+   },
+   {
+    "cy": "saith",
+    "en": "seven",
+    "pr": "syth"
+   },
+   {
+    "cy": "wyth",
+    "en": "eight",
+    "pr": "ooith"
+   },
+   {
+    "cy": "naw",
+    "en": "nine",
+    "pr": "now"
+   },
+   {
+    "cy": "deg",
+    "en": "ten",
+    "pr": "deg"
+   }
+  ]
+ },
+ {
+  "id": "family",
+  "title": "Family and friends",
+  "cy": "Teulu a ffrindiau",
+  "blurb": "The people closest to you.",
+  "items": [
+   {
+    "cy": "mam",
+    "en": "mum",
+    "pr": "mam"
+   },
+   {
+    "cy": "tad",
+    "en": "dad",
+    "pr": "tad"
+   },
+   {
+    "cy": "brawd",
+    "en": "brother",
+    "pr": "browd"
+   },
+   {
+    "cy": "chwaer",
+    "en": "sister",
+    "pr": "khwyre"
+   },
+   {
+    "cy": "nain",
+    "en": "grandmother",
+    "pr": "nine",
+    "south": {
+     "cy": "mam-gu",
+     "pr": "mam-gee"
+    }
+   },
+   {
+    "cy": "taid",
+    "en": "grandfather",
+    "pr": "tide",
+    "south": {
+     "cy": "tad-cu",
+     "pr": "tad-kee"
+    }
+   },
+   {
+    "cy": "plentyn",
+    "en": "child",
+    "pr": "PLEN-tin"
+   },
+   {
+    "cy": "ffrind",
+    "en": "friend",
+    "pr": "frind"
+   },
+   {
+    "cy": "teulu",
+    "en": "family",
+    "pr": "TAY-lee"
+   },
+   {
+    "cy": "cartref",
+    "en": "home",
+    "pr": "KAR-trev"
+   }
+  ]
+ },
+ {
+  "id": "food",
+  "title": "Food and drink",
+  "cy": "Bwyd a diod",
+  "blurb": "Order a cup of tea and a slice of bara brith.",
+  "items": [
+   {
+    "cy": "bara",
+    "en": "bread",
+    "pr": "BA-ra"
+   },
+   {
+    "cy": "caws",
+    "en": "cheese",
+    "pr": "kows"
+   },
+   {
+    "cy": "llaeth",
+    "en": "milk",
+    "pr": "LHYTHE",
+    "south": {
+     "cy": "llefrith",
+     "pr": "LHEV-rith"
+    }
+   },
+   {
+    "cy": "te",
+    "en": "tea",
+    "pr": "teh"
+   },
+   {
+    "cy": "coffi",
+    "en": "coffee",
+    "pr": "KOF-ee"
+   },
+   {
+    "cy": "dŵr",
+    "en": "water",
+    "pr": "door"
+   },
+   {
+    "cy": "afal",
+    "en": "apple",
+    "pr": "AV-al"
+   },
+   {
+    "cy": "cwrw",
+    "en": "beer",
+    "pr": "KOO-roo"
+   },
+   {
+    "cy": "bara brith",
+    "en": "speckled bread (fruit loaf)",
+    "pr": "BA-ra breeth"
+   },
+   {
+    "cy": "cawl",
+    "en": "Welsh stew",
+    "pr": "kowl"
+   }
+  ]
+ },
+ {
+  "id": "days",
+  "title": "Days and time",
+  "cy": "Dyddiau",
+  "blurb": "Days of the week, plus today, tomorrow and yesterday.",
+  "items": [
+   {
+    "cy": "Dydd Llun",
+    "en": "Monday",
+    "pr": "deeth lheen"
+   },
+   {
+    "cy": "Dydd Mawrth",
+    "en": "Tuesday",
+    "pr": "deeth mowrth"
+   },
+   {
+    "cy": "Dydd Mercher",
+    "en": "Wednesday",
+    "pr": "deeth MER-kher"
+   },
+   {
+    "cy": "Dydd Iau",
+    "en": "Thursday",
+    "pr": "deeth yeye"
+   },
+   {
+    "cy": "Dydd Gwener",
+    "en": "Friday",
+    "pr": "deeth GWEN-er"
+   },
+   {
+    "cy": "Dydd Sadwrn",
+    "en": "Saturday",
+    "pr": "deeth SAD-oorn"
+   },
+   {
+    "cy": "Dydd Sul",
+    "en": "Sunday",
+    "pr": "deeth seel"
+   },
+   {
+    "cy": "heddiw",
+    "en": "today",
+    "pr": "HETH-yoo"
+   },
+   {
+    "cy": "yfory",
+    "en": "tomorrow",
+    "pr": "uh-VOR-ee"
+   },
+   {
+    "cy": "ddoe",
+    "en": "yesterday",
+    "pr": "thoy"
+   }
+  ]
+ },
+ {
+  "id": "colours",
+  "title": "Colours",
+  "cy": "Lliwiau",
+  "blurb": "Describe what you see.",
+  "items": [
+   {
+    "cy": "coch",
+    "en": "red",
+    "pr": "kohkh"
+   },
+   {
+    "cy": "glas",
+    "en": "blue",
+    "pr": "glahs"
+   },
+   {
+    "cy": "gwyrdd",
+    "en": "green",
+    "pr": "GWEERTH"
+   },
+   {
+    "cy": "melyn",
+    "en": "yellow",
+    "pr": "MEL-in"
+   },
+   {
+    "cy": "du",
+    "en": "black",
+    "pr": "dee"
+   },
+   {
+    "cy": "gwyn",
+    "en": "white",
+    "pr": "gwin"
+   },
+   {
+    "cy": "oren",
+    "en": "orange",
+    "pr": "OR-en"
+   },
+   {
+    "cy": "porffor",
+    "en": "purple",
+    "pr": "POR-for"
+   },
+   {
+    "cy": "brown",
+    "en": "brown",
+    "pr": "brown"
+   },
+   {
+    "cy": "llwyd",
+    "en": "grey",
+    "pr": "LHOO-id"
+   }
+  ]
+ },
+ {
+  "id": "verbs",
+  "title": "Everyday verbs",
+  "cy": "Berfau",
+  "blurb": "Actions you’ll use all the time.",
+  "items": [
+   {
+    "cy": "mynd",
+    "en": "to go",
+    "pr": "mind"
+   },
+   {
+    "cy": "dod",
+    "en": "to come",
+    "pr": "dohd"
+   },
+   {
+    "cy": "gweld",
+    "en": "to see",
+    "pr": "gweld"
+   },
+   {
+    "cy": "siarad",
+    "en": "to speak",
+    "pr": "SHA-rad"
+   },
+   {
+    "cy": "bwyta",
+    "en": "to eat",
+    "pr": "BOO-ih-ta"
+   },
+   {
+    "cy": "yfed",
+    "en": "to drink",
+    "pr": "UV-ed"
+   },
+   {
+    "cy": "dysgu",
+    "en": "to learn or teach",
+    "pr": "DUS-gee"
+   },
+   {
+    "cy": "darllen",
+    "en": "to read",
+    "pr": "DAR-lhen"
+   },
+   {
+    "cy": "prynu",
+    "en": "to buy",
+    "pr": "PRUN-ee"
+   },
+   {
+    "cy": "caru",
+    "en": "to love",
+    "pr": "KAR-ee"
+   }
+  ]
+ },
+ {
+  "id": "phrases",
+  "title": "Useful phrases",
+  "cy": "Ymadroddion",
+  "blurb": "Introduce yourself and get by.",
+  "items": [
+   {
+    "cy": "Fy enw i yw…",
+    "en": "My name is…",
+    "pr": "vuh EH-noo ee yoo"
+   },
+   {
+    "cy": "Dw i'n dysgu Cymraeg",
+    "en": "I'm learning Welsh",
+    "pr": "doo een DUS-gee kum-RYGE",
+    "south": {
+     "cy": "Rwy'n dysgu Cymraeg",
+     "pr": "roo-een DUS-gee kum-RYGE"
+    }
+   },
+   {
+    "cy": "Dw i'n dod o…",
+    "en": "I come from…",
+    "pr": "doo een dohd oh",
+    "south": {
+     "cy": "Rwy'n dod o…",
+     "pr": "roo-een dohd oh"
+    }
+   },
+   {
+    "cy": "Dw i ddim yn deall",
+    "en": "I don't understand",
+    "pr": "doo ee thim un DEH-ahlh"
+   },
+   {
+    "cy": "Siaradwch yn arafach",
+    "en": "Speak more slowly",
+    "pr": "shar-AD-wch un ar-AV-ach"
+   },
+   {
+    "cy": "Dw i'n hoffi coffi",
+    "en": "I like coffee",
+    "pr": "doo een HOF-ee KOF-ee",
+    "south": {
+     "cy": "Rwy'n hoffi coffi",
+     "pr": "roo-een HOF-ee KOF-ee"
+    }
+   },
+   {
+    "cy": "Ble mae'r toiled?",
+    "en": "Where is the toilet?",
+    "pr": "bleh mire TOY-led"
+   },
+   {
+    "cy": "Faint yw e?",
+    "en": "How much is it?",
+    "pr": "vyent yoo eh"
+   },
+   {
+    "cy": "Ga i de, os gwelwch yn dda?",
+    "en": "Can I have a tea, please?",
+    "pr": "gah ee deh, os GWEL-ooch un thah"
+   },
+   {
+    "cy": "rŵan",
+    "en": "now",
+    "pr": "ROO-an",
+    "south": {
+     "cy": "nawr",
+     "pr": "nowr"
+    }
+   },
+   {
+    "cy": "Wela i chi wedyn",
+    "en": "See you later",
+    "pr": "WEH-la ee chee WEH-din"
+   }
+  ]
+ }
+]
