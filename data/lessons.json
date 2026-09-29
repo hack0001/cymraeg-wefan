@@ -505,5 +505,400 @@
     "pr": "WEH-la ee chee WEH-din"
    }
   ]
+ },
+ {
+  "id": "body",
+  "title": "Body parts",
+  "cy": "Rhannau'r corff",
+  "blurb": "Name the parts of your body.",
+  "items": [
+   {
+    "cy": "pen",
+    "en": "head",
+    "pr": "pen"
+   },
+   {
+    "cy": "gwallt",
+    "en": "hair",
+    "pr": "GWAHLT"
+   },
+   {
+    "cy": "llygad",
+    "en": "eye (llygaid = eyes)",
+    "pr": "LHUH-gad"
+   },
+   {
+    "cy": "trwyn",
+    "en": "nose",
+    "pr": "TROO-in"
+   },
+   {
+    "cy": "ceg",
+    "en": "mouth",
+    "pr": "keg"
+   },
+   {
+    "cy": "clust",
+    "en": "ear",
+    "pr": "kloost"
+   },
+   {
+    "cy": "braich",
+    "en": "arm (breichiau = arms)",
+    "pr": "brykh"
+   },
+   {
+    "cy": "llaw",
+    "en": "hand (dwylo = hands)",
+    "pr": "lhow"
+   },
+   {
+    "cy": "bys",
+    "en": "finger (bysedd = fingers)",
+    "pr": "bees"
+   },
+   {
+    "cy": "coes",
+    "en": "leg (coesau = legs)",
+    "pr": "koys"
+   },
+   {
+    "cy": "troed",
+    "en": "foot (traed = feet)",
+    "pr": "troyd"
+   },
+   {
+    "cy": "cefn",
+    "en": "back",
+    "pr": "kevn"
+   },
+   {
+    "cy": "bol",
+    "en": "tummy / stomach",
+    "pr": "bol"
+   },
+   {
+    "cy": "ysgwydd",
+    "en": "shoulder",
+    "pr": "us-GOO-ith"
+   }
+  ]
+ },
+ {
+  "id": "house",
+  "title": "Rooms and things in the house",
+  "cy": "Ystafelloedd a'r tŷ",
+  "blurb": "The rooms of the house and what you'll find in them.",
+  "items": [
+   {
+    "cy": "cegin",
+    "en": "kitchen",
+    "pr": "KEG-in"
+   },
+   {
+    "cy": "lolfa",
+    "en": "living room / lounge",
+    "pr": "LOL-va"
+   },
+   {
+    "cy": "ystafell wely",
+    "en": "bedroom",
+    "pr": "us-TAV-elh WEH-lee"
+   },
+   {
+    "cy": "ystafell ymolchi",
+    "en": "bathroom",
+    "pr": "us-TAV-elh uh-MOL-khee"
+   },
+   {
+    "cy": "landin",
+    "en": "landing",
+    "pr": "LAN-din"
+   },
+   {
+    "cy": "atig",
+    "en": "attic",
+    "pr": "AT-ig"
+   },
+   {
+    "cy": "gwely",
+    "en": "bed",
+    "pr": "GWEH-lee"
+   },
+   {
+    "cy": "soffa",
+    "en": "sofa",
+    "pr": "SOF-a"
+   },
+   {
+    "cy": "bwrdd",
+    "en": "table",
+    "pr": "boorth"
+   },
+   {
+    "cy": "cadair",
+    "en": "chair",
+    "pr": "KAD-eyer"
+   },
+   {
+    "cy": "ffwrn",
+    "en": "oven",
+    "pr": "foorn"
+   },
+   {
+    "cy": "sinc",
+    "en": "sink",
+    "pr": "sink"
+   },
+   {
+    "cy": "oergell",
+    "en": "fridge",
+    "pr": "OYER-gelh"
+   },
+   {
+    "cy": "wardrob",
+    "en": "wardrobe",
+    "pr": "war-DROB"
+   },
+   {
+    "cy": "ffenestr",
+    "en": "window",
+    "pr": "FEN-estr"
+   },
+   {
+    "cy": "drws",
+    "en": "door",
+    "pr": "droos"
+   },
+   {
+    "cy": "teledu",
+    "en": "television",
+    "pr": "teh-LEH-dee"
+   },
+   {
+    "cy": "cwpwrdd",
+    "en": "cupboard",
+    "pr": "KOO-poorth"
+   }
+  ]
+ },
+ {
+  "id": "outside",
+  "title": "Outside",
+  "cy": "Y tu allan",
+  "blurb": "The garden, the street and the world beyond your front door.",
+  "items": [
+   {
+    "cy": "gardd",
+    "en": "garden",
+    "pr": "garth"
+   },
+   {
+    "cy": "coeden",
+    "en": "tree (coed = trees)",
+    "pr": "KOY-den"
+   },
+   {
+    "cy": "blodyn",
+    "en": "flower (blodau = flowers)",
+    "pr": "BLOD-in"
+   },
+   {
+    "cy": "glaswellt",
+    "en": "grass",
+    "pr": "glas-WELHT"
+   },
+   {
+    "cy": "awyr",
+    "en": "sky",
+    "pr": "OW-eer"
+   },
+   {
+    "cy": "haul",
+    "en": "sun",
+    "pr": "howl"
+   },
+   {
+    "cy": "lleuad",
+    "en": "moon",
+    "pr": "LHEY-ad"
+   },
+   {
+    "cy": "seren",
+    "en": "star (sêr = stars)",
+    "pr": "SEH-ren"
+   },
+   {
+    "cy": "car",
+    "en": "car",
+    "pr": "kar"
+   },
+   {
+    "cy": "ffordd",
+    "en": "road",
+    "pr": "forth"
+   },
+   {
+    "cy": "pentref",
+    "en": "village",
+    "pr": "PEN-trev"
+   },
+   {
+    "cy": "tref",
+    "en": "town",
+    "pr": "trehv"
+   },
+   {
+    "cy": "mynydd",
+    "en": "mountain",
+    "pr": "MUN-ith"
+   },
+   {
+    "cy": "afon",
+    "en": "river",
+    "pr": "AV-on"
+   },
+   {
+    "cy": "môr",
+    "en": "sea",
+    "pr": "mohr"
+   }
+  ]
+ },
+ {
+  "id": "family-relations",
+  "title": "Family relations",
+  "cy": "Perthnasau",
+  "blurb": "Extended family: aunts, uncles, cousins and in-laws.",
+  "items": [
+   {
+    "cy": "modryb",
+    "en": "aunt",
+    "pr": "MOD-rib"
+   },
+   {
+    "cy": "ewythr",
+    "en": "uncle",
+    "pr": "EH-ooithr"
+   },
+   {
+    "cy": "cefnder",
+    "en": "male cousin",
+    "pr": "KEV-nder"
+   },
+   {
+    "cy": "cyfnither",
+    "en": "female cousin",
+    "pr": "kuv-NITH-er"
+   },
+   {
+    "cy": "gŵr",
+    "en": "husband",
+    "pr": "goor"
+   },
+   {
+    "cy": "gwraig",
+    "en": "wife",
+    "pr": "GWRYG"
+   },
+   {
+    "cy": "mab",
+    "en": "son (meibion = sons)",
+    "pr": "mahb"
+   },
+   {
+    "cy": "merch",
+    "en": "daughter (merched = daughters)",
+    "pr": "mehrkh"
+   },
+   {
+    "cy": "ŵyr",
+    "en": "grandson",
+    "pr": "OO-eer"
+   },
+   {
+    "cy": "wyres",
+    "en": "granddaughter",
+    "pr": "OO-eer-es"
+   },
+   {
+    "cy": "nai",
+    "en": "nephew",
+    "pr": "nye"
+   },
+   {
+    "cy": "nith",
+    "en": "niece",
+    "pr": "neeth"
+   }
+  ]
+ },
+ {
+  "id": "jobs",
+  "title": "Jobs",
+  "cy": "Swyddi",
+  "blurb": "Talk about what people do for a living.",
+  "items": [
+   {
+    "cy": "athro",
+    "en": "teacher (m.); athrawes = female teacher",
+    "pr": "ATH-ro"
+   },
+   {
+    "cy": "meddyg",
+    "en": "doctor",
+    "pr": "METH-ig"
+   },
+   {
+    "cy": "nyrs",
+    "en": "nurse",
+    "pr": "nurs"
+   },
+   {
+    "cy": "ffermwr",
+    "en": "farmer",
+    "pr": "FEHR-moor"
+   },
+   {
+    "cy": "peiriannydd",
+    "en": "engineer",
+    "pr": "pey-ree-AN-ith"
+   },
+   {
+    "cy": "cogydd",
+    "en": "chef / cook",
+    "pr": "KOG-ith"
+   },
+   {
+    "cy": "plismon",
+    "en": "police officer (m.); plismones = female officer",
+    "pr": "PLIS-mon"
+   },
+   {
+    "cy": "diffoddwr tân",
+    "en": "firefighter",
+    "pr": "dee-FOTH-oor tahn"
+   },
+   {
+    "cy": "gyrrwr",
+    "en": "driver",
+    "pr": "GUR-oor"
+   },
+   {
+    "cy": "cyfreithiwr",
+    "en": "lawyer",
+    "pr": "kuv-RYTH-yoor"
+   },
+   {
+    "cy": "pobydd",
+    "en": "baker",
+    "pr": "POB-ith"
+   },
+   {
+    "cy": "adeiladwr",
+    "en": "builder",
+    "pr": "ad-ey-LAD-oor"
+   }
+  ]
  }
 ]
