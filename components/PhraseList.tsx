@@ -25,6 +25,7 @@ export default function PhraseList({ lessonId }: { lessonId: string }) {
               {p.pr}
               {p.alt && <span className="alt"> · {dialect === 'north' ? 'south' : 'north'}: <span lang="cy">{p.alt}</span></span>}
             </span>
+            {p.mnemonic && <span className="mnemonic">💡 {p.mnemonic}</span>}
             <SpeakButton text={p.cy} />
           </li>
         ))}

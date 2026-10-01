@@ -90,6 +90,7 @@ export default function Cards({ deck }: { deck: string }) {
             <span className="big" lang={frontIsWelsh ? 'en' : 'cy'}>{back}</span>
             <span className="hint">{c.pr}</span>
             {c.alt && <span className="hint">{dialect === 'north' ? 'South' : 'North'}: <span lang="cy">{c.alt}</span></span>}
+            {c.mnemonic && <span className="hint mnemonic">💡 {c.mnemonic}</span>}
           </button>
         ) : (
           <button className="flash" onClick={() => setFlipped(true)} aria-label="Show answer">

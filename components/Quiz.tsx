@@ -88,6 +88,9 @@ export default function Quiz({ lessonId }: { lessonId: string }) {
       <p className={`feedback ${answered ? (correct ? 'ok' : 'bad') : ''}`} aria-live="polite">
         {answered ? (correct ? 'Correct.' : `Not quite. The answer is “${q.answer}”.`) : ''}
       </p>
+      {answered && q.phrase.mnemonic && (
+        <p className="note" style={{ marginTop: '.5rem' }}>💡 {q.phrase.mnemonic}</p>
+      )}
       {answered && (
         <div className="actions" style={{ marginTop: '.5rem' }}>
           <button className="btn" onClick={() => { setI(i + 1); setPicked(null); }}>

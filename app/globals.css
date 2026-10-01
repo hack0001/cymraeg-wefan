@@ -82,6 +82,7 @@ section+section{margin-top:2.75rem}
 .row .cy{font-family:var(--display);font-weight:700;font-size:1.5rem;line-height:1.15}
 .row .en{color:var(--ink)}
 .row .pron{grid-column:1;color:var(--muted);font-size:.92rem;font-style:italic}
+.row .mnemonic{grid-column:1;color:var(--muted);font-size:.88rem;font-style:normal;margin-top:.3rem;line-height:1.45}
 .row .say{grid-row:1 / span 3;grid-column:2}
 .say{width:2.75rem;height:2.75rem;border-radius:50%;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;color:var(--green)}
 .say svg{width:1.2rem;height:1.2rem;fill:currentColor}
@@ -105,6 +106,7 @@ section+section{margin-top:2.75rem}
 .flash{display:block;width:100%;min-height:13rem;text-align:center;background:var(--bg);border:2px solid var(--ink);border-radius:14px;padding:1.5rem 1rem;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.4rem}
 .flash .big{font-family:var(--display);font-weight:800;font-size:clamp(2rem,9vw,3rem);line-height:1.1;overflow-wrap:anywhere}
 .flash .hint{color:var(--muted);font-size:.95rem}
+.flash .hint.mnemonic{max-width:30ch;margin-top:.3rem;line-height:1.45}
 .flash.back{background:var(--panel);border-color:var(--panel);color:var(--panel-ink)}
 .flash.back .hint{color:color-mix(in srgb,var(--panel-ink) 75%,transparent)}
 .toolbar{display:flex;flex-wrap:wrap;gap:.5rem;margin:.75rem 0 1.25rem}

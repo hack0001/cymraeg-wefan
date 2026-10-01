@@ -8,62 +8,74 @@
    {
     "cy": "Helo",
     "en": "Hello",
-    "pr": "HEL-o"
+    "pr": "HEL-o",
+    "mnemonic": "Identical to English “hello” — a straight borrowing, no trick needed."
    },
    {
     "cy": "Sut mae?",
     "en": "How are you? / Hi",
-    "pr": "sit my"
+    "pr": "sit my",
+    "mnemonic": "sut (how) + mae (is/there is) → literally “how is (it)?” — that mae turns up everywhere meaning “is/there is”."
    },
    {
     "cy": "Bore da",
     "en": "Good morning",
-    "pr": "BO-reh dah"
+    "pr": "BO-reh dah",
+    "mnemonic": "bore (morning) + da (good) → word for word, “morning good”."
    },
    {
     "cy": "Prynhawn da",
     "en": "Good afternoon",
-    "pr": "PRUN-hown dah"
+    "pr": "PRUN-hown dah",
+    "mnemonic": "prynhawn hides nawn (noon) inside it, so think “near-noon” + da (good) → “good (near-)noon”."
    },
    {
     "cy": "Noswaith dda",
     "en": "Good evening",
-    "pr": "NOS-wyth thah"
+    "pr": "NOS-wyth thah",
+    "mnemonic": "nos (night) + gwaith (occasion/turn, the same -waith in unwaith “once”) + dda (good) → “good night-time”."
    },
    {
     "cy": "Nos da",
     "en": "Good night",
-    "pr": "nohs dah"
+    "pr": "nohs dah",
+    "mnemonic": "nos (night) + da (good) → literally “good night”."
    },
    {
     "cy": "Hwyl fawr",
     "en": "Goodbye",
-    "pr": "hooil vowr"
+    "pr": "hooil vowr",
+    "mnemonic": "hwyl literally means “sail” (as on a boat), and by extension “spirit/fun” + fawr (big) → picture a big sail catching the wind as you head off — “big spirit” as a send-off."
    },
    {
     "cy": "Diolch",
     "en": "Thank you",
-    "pr": "DEE-olch"
+    "pr": "DEE-olch",
+    "mnemonic": "No clean breakdown — try the sound-trick: “DEE-olch” a bit like “the oil change” — thank the mechanic before you leave."
    },
    {
     "cy": "Da iawn, diolch",
     "en": "Very well, thanks",
-    "pr": "dah yown, DEE-olch"
+    "pr": "dah yown, DEE-olch",
+    "mnemonic": "da (good) + iawn (very/right — also used alone to mean “okay!”) + diolch (thanks) → “good very, thanks”."
    },
    {
     "cy": "Os gwelwch yn dda",
     "en": "Please",
-    "pr": "os GWEL-ooch un thah"
+    "pr": "os GWEL-ooch un thah",
+    "mnemonic": "os (if) + gwelwch (you see, from gweld “to see”) + yn dda (well) → literally “if you see (it) well” — asking someone to “see fit” is the Welsh way of saying please."
    },
    {
     "cy": "Croeso",
     "en": "Welcome",
-    "pr": "KROY-so"
+    "pr": "KROY-so",
+    "mnemonic": "Sound-trick: “KROY-so” sounds like “crows, oh!” — picture crows cawing you a big welcome."
    },
    {
     "cy": "Iechyd da",
     "en": "Cheers",
-    "pr": "YECH-id dah"
+    "pr": "YECH-id dah",
+    "mnemonic": "iechyd (health, from iach “healthy”) + da (good) → “good health” — exactly like raising a glass and saying cheers."
    }
   ]
  },
@@ -76,52 +88,62 @@
    {
     "cy": "un",
     "en": "one",
-    "pr": "een"
+    "pr": "een",
+    "mnemonic": "Sounds like “een” — picture a single bean: un = one."
    },
    {
     "cy": "dau",
     "en": "two",
-    "pr": "die"
+    "pr": "die",
+    "mnemonic": "Sounds like “die” — picture two duellists facing off: dau = two."
    },
    {
     "cy": "tri",
     "en": "three",
-    "pr": "tree"
+    "pr": "tree",
+    "mnemonic": "Identical to the English prefix “tri-” (triangle, tricycle): tri = three."
    },
    {
     "cy": "pedwar",
     "en": "four",
-    "pr": "PED-war"
+    "pr": "PED-war",
+    "mnemonic": "Picture a four-legged “pet” marching off to WAR — ped-WAR: pedwar = four."
    },
    {
     "cy": "pump",
     "en": "five",
-    "pr": "pimp"
+    "pr": "pimp",
+    "mnemonic": "Sounds exactly like English “pump” — picture five pumps of a bike tyre: pump = five."
    },
    {
     "cy": "chwech",
     "en": "six",
-    "pr": "khwekh"
+    "pr": "khwekh",
+    "mnemonic": "Rhymes with “heck” — roll a six and shout “chwech, heck yes!”: chwech = six."
    },
    {
     "cy": "saith",
     "en": "seven",
-    "pr": "syth"
+    "pr": "syth",
+    "mnemonic": "Sounds like “scythe” — a scythe’s long curved blade is shaped a bit like a 7: saith = seven."
    },
    {
     "cy": "wyth",
     "en": "eight",
-    "pr": "ooith"
+    "pr": "ooith",
+    "mnemonic": "Sounds very close to the English word itself: “ooith” ≈ “eight” — the easiest one here: wyth = eight."
    },
    {
     "cy": "naw",
     "en": "nine",
-    "pr": "now"
+    "pr": "now",
+    "mnemonic": "Sounds exactly like English “now” — picture needing nine things right now: naw = nine."
    },
    {
     "cy": "deg",
     "en": "ten",
-    "pr": "deg"
+    "pr": "deg",
+    "mnemonic": "Sounds like “deck” — picture ten cards dealt on a deck: deg = ten."
    }
   ]
  },
@@ -134,22 +156,26 @@
    {
     "cy": "mam",
     "en": "mum",
-    "pr": "mam"
+    "pr": "mam",
+    "mnemonic": "Identical to English “mum/mam” — no trick needed."
    },
    {
     "cy": "tad",
     "en": "dad",
-    "pr": "tad"
+    "pr": "tad",
+    "mnemonic": "Swap the letters of “dad” around — t-a-d — and you have tad."
    },
    {
     "cy": "brawd",
     "en": "brother",
-    "pr": "browd"
+    "pr": "browd",
+    "mnemonic": "Sounds like “browed” — picture a brother with furrowed brows: brawd = brother."
    },
    {
     "cy": "chwaer",
     "en": "sister",
-    "pr": "khwyre"
+    "pr": "khwyre",
+    "mnemonic": "Sounds close to “choir” — picture singing in a choir with your sister: chwaer = sister."
    },
    {
     "cy": "nain",
@@ -158,7 +184,8 @@
     "south": {
      "cy": "mam-gu",
      "pr": "mam-gee"
-    }
+    },
+    "mnemonic": "Sounds like “nine” — a grandmother who’s lived nine lifetimes of wisdom. (North Wales word; the south says mam-gu, literally “dear mam”.)"
    },
    {
     "cy": "taid",
@@ -167,27 +194,32 @@
     "south": {
      "cy": "tad-cu",
      "pr": "tad-kee"
-    }
+    },
+    "mnemonic": "Sounds like “tide” — picture a grandfather watching the tide roll in. (North Wales word; the south says tad-cu, literally “dear tad”.)"
    },
    {
     "cy": "plentyn",
     "en": "child",
-    "pr": "PLEN-tin"
+    "pr": "PLEN-tin",
+    "mnemonic": "Contains plant — the plural “children” — think of a child as a little plant still growing: plentyn = child."
    },
    {
     "cy": "ffrind",
     "en": "friend",
-    "pr": "frind"
+    "pr": "frind",
+    "mnemonic": "Nearly identical to English “friend” — just drop the e: ffrind."
    },
    {
     "cy": "teulu",
     "en": "family",
-    "pr": "TAY-lee"
+    "pr": "TAY-lee",
+    "mnemonic": "Sounds like “tay-lee” — picture your whole family sitting down for te (tea) together: teulu = family."
    },
    {
     "cy": "cartref",
     "en": "home",
-    "pr": "KAR-trev"
+    "pr": "KAR-trev",
+    "mnemonic": "Ends in tref, the same word you’ll meet in pentref (village) — cartref is literally your own personal “home-town”."
    }
   ]
  },
@@ -200,12 +232,14 @@
    {
     "cy": "bara",
     "en": "bread",
-    "pr": "BA-ra"
+    "pr": "BA-ra",
+    "mnemonic": "Sounds like “BA-ra” — picture a loaf going “baa” like a sheep made of bread: bara = bread."
    },
    {
     "cy": "caws",
     "en": "cheese",
-    "pr": "kows"
+    "pr": "kows",
+    "mnemonic": "Sounds like “cause” — cheese is always the cause of a good sandwich: caws = cheese."
    },
    {
     "cy": "llaeth",
@@ -214,42 +248,50 @@
     "south": {
      "cy": "llefrith",
      "pr": "LHEV-rith"
-    }
+    },
+    "mnemonic": "Sounds like a lithe, light “laith” — picture a thin white stream pouring: llaeth = milk. (South Wales says llefrith instead.)"
    },
    {
     "cy": "te",
     "en": "tea",
-    "pr": "teh"
+    "pr": "teh",
+    "mnemonic": "Identical to English “tea”."
    },
    {
     "cy": "coffi",
     "en": "coffee",
-    "pr": "KOF-ee"
+    "pr": "KOF-ee",
+    "mnemonic": "Identical to English “coffee”, just spelled Welsh-style."
    },
    {
     "cy": "dŵr",
     "en": "water",
-    "pr": "door"
+    "pr": "door",
+    "mnemonic": "Sounds like “door” — picture opening a door onto a waterfall: dŵr = water (the River Dover takes its name from this very old Celtic water-word)."
    },
    {
     "cy": "afal",
     "en": "apple",
-    "pr": "AV-al"
+    "pr": "AV-al",
+    "mnemonic": "Sounds close to “oval” — and apples are oval-ish: afal = apple."
    },
    {
     "cy": "cwrw",
     "en": "beer",
-    "pr": "KOO-roo"
+    "pr": "KOO-roo",
+    "mnemonic": "Sounds like “KOO-roo” — picture a kangaroo chugging a pint: cwrw = beer."
    },
    {
     "cy": "bara brith",
     "en": "speckled bread (fruit loaf)",
-    "pr": "BA-ra breeth"
+    "pr": "BA-ra breeth",
+    "mnemonic": "bara (bread) + brith (speckled/mottled) → literally “speckled bread” — picture a loaf speckled with dried fruit."
    },
    {
     "cy": "cawl",
     "en": "Welsh stew",
-    "pr": "kowl"
+    "pr": "kowl",
+    "mnemonic": "Sounds like “kowl” — a chunky Welsh stew, close in sound and sense to English “cawl/coleslaw” roots."
    }
   ]
  },
@@ -262,52 +304,74 @@
    {
     "cy": "Dydd Llun",
     "en": "Monday",
-    "pr": "deeth lheen"
+    "pr": "deeth lheen",
+    "mnemonic": "dydd (day) + Llun (Moon, same root as lleuad) → “Moon’s day” — exactly like English Mon-day."
    },
    {
     "cy": "Dydd Mawrth",
     "en": "Tuesday",
-    "pr": "deeth mowrth"
+    "pr": "deeth mowrth",
+    "mnemonic": "dydd (day) + Mawrth (Mars) → “Mars’s day” — like French mardi."
    },
    {
     "cy": "Dydd Mercher",
     "en": "Wednesday",
-    "pr": "deeth MER-kher"
+    "pr": "deeth MER-kher",
+    "mnemonic": "dydd (day) + Mercher (Mercury) → “Mercury’s day” — like French mercredi."
    },
    {
     "cy": "Dydd Iau",
     "en": "Thursday",
-    "pr": "deeth yeye"
+    "pr": "deeth yeye",
+    "mnemonic": "dydd (day) + Iau (Jupiter) → “Jupiter’s day” — like French jeudi."
    },
    {
     "cy": "Dydd Gwener",
     "en": "Friday",
-    "pr": "deeth GWEN-er"
+    "pr": "deeth GWEN-er",
+    "mnemonic": "dydd (day) + Gwener (Venus) → “Venus’s day” — like French vendredi."
    },
    {
     "cy": "Dydd Sadwrn",
     "en": "Saturday",
-    "pr": "deeth SAD-oorn"
+    "pr": "deeth SAD-oorn",
+    "mnemonic": "dydd (day) + Sadwrn (Saturn) → “Saturn’s day” — same logic as English Satur-day."
    },
    {
     "cy": "Dydd Sul",
     "en": "Sunday",
-    "pr": "deeth seel"
+    "pr": "deeth seel",
+    "mnemonic": "dydd (day) + Sul (Sun, same root as haul) → “Sun’s day” — same logic as English Sun-day."
    },
    {
     "cy": "heddiw",
     "en": "today",
-    "pr": "HETH-yoo"
+    "pr": "HETH-yoo",
+    "mnemonic": "Picture pointing right at the ground saying “HETH-yoo — THIS very day”: heddiw = today."
    },
    {
     "cy": "yfory",
     "en": "tomorrow",
-    "pr": "uh-VOR-ee"
+    "pr": "uh-VOR-ee",
+    "mnemonic": "Sounds like “uh-VOR-ee”, close to “before-y” — tomorrow is always just before it arrives: yfory = tomorrow."
    },
    {
     "cy": "ddoe",
     "en": "yesterday",
-    "pr": "thoy"
+    "pr": "thoy",
+    "mnemonic": "Short and sharp, sounds like “though” — “though it’s gone now”: ddoe = yesterday."
+   },
+   {
+    "cy": "wythnos",
+    "en": "week",
+    "pr": "OOITH-nos",
+    "mnemonic": "wyth (eight) + nos (night) → literally “eight nights” = a week (Welsh counts inclusively from one day to the same day the next week)."
+   },
+   {
+    "cy": "penwythnos",
+    "en": "weekend",
+    "pr": "pen-OOITH-nos",
+    "mnemonic": "pen (head/end) + wythnos (week, just above) → literally “the head/end of the week” = weekend."
    }
   ]
  },
@@ -320,52 +384,62 @@
    {
     "cy": "coch",
     "en": "red",
-    "pr": "kohkh"
+    "pr": "kohkh",
+    "mnemonic": "Sounds like “cock” — picture a red cockerel’s comb: coch = red."
    },
    {
     "cy": "glas",
     "en": "blue",
-    "pr": "glahs"
+    "pr": "glahs",
+    "mnemonic": "Sounds like “glass” — think of blue sea-glass: glas = blue."
    },
    {
     "cy": "gwyrdd",
     "en": "green",
-    "pr": "GWEERTH"
+    "pr": "GWEERTH",
+    "mnemonic": "Picture “weird green” — gwyrdd ≈ weird: gwyrdd = green."
    },
    {
     "cy": "melyn",
     "en": "yellow",
-    "pr": "MEL-in"
+    "pr": "MEL-in",
+    "mnemonic": "Sounds close to “melon” — a yellow melon: melyn = yellow."
    },
    {
     "cy": "du",
     "en": "black",
-    "pr": "dee"
+    "pr": "dee",
+    "mnemonic": "Short and sharp, “dee” — dim the lights and you get du (black)."
    },
    {
     "cy": "gwyn",
     "en": "white",
-    "pr": "gwin"
+    "pr": "gwin",
+    "mnemonic": "Sounds exactly like “win” — picture a white flag of victory: gwyn = white."
    },
    {
     "cy": "oren",
     "en": "orange",
-    "pr": "OR-en"
+    "pr": "OR-en",
+    "mnemonic": "Identical to English “orange” minus the g — oren = orange."
    },
    {
     "cy": "porffor",
     "en": "purple",
-    "pr": "POR-for"
+    "pr": "POR-for",
+    "mnemonic": "Rhythm close to English “purple” — think “Portaloo, for purple”: porffor = purple."
    },
    {
     "cy": "brown",
     "en": "brown",
-    "pr": "brown"
+    "pr": "brown",
+    "mnemonic": "Identical to English “brown”."
    },
    {
     "cy": "llwyd",
     "en": "grey",
-    "pr": "LHOO-id"
+    "pr": "LHOO-id",
+    "mnemonic": "Sounds close to “fluid” — grey like drifting smoke: llwyd = grey."
    }
   ]
  },
@@ -378,52 +452,62 @@
    {
     "cy": "mynd",
     "en": "to go",
-    "pr": "mind"
+    "pr": "mind",
+    "mnemonic": "Sounds like “mind” — “mind, I’m going!”: mynd = to go."
    },
    {
     "cy": "dod",
     "en": "to come",
-    "pr": "dohd"
+    "pr": "dohd",
+    "mnemonic": "Sounds like “dodge” — picture dodging in through the door as you arrive: dod = to come."
    },
    {
     "cy": "gweld",
     "en": "to see",
-    "pr": "gweld"
+    "pr": "gweld",
+    "mnemonic": "Sounds close to “weld” — welding goggles let you see clearly: gweld = to see."
    },
    {
     "cy": "siarad",
     "en": "to speak",
-    "pr": "SHA-rad"
+    "pr": "SHA-rad",
+    "mnemonic": "Sounds close to “charade” — charades is a game about talking without talking: siarad = to speak."
    },
    {
     "cy": "bwyta",
     "en": "to eat",
-    "pr": "BOO-ih-ta"
+    "pr": "BOO-ih-ta",
+    "mnemonic": "Shares its root with bwyd (food, which you’ll see on every menu) — bwyta = to eat."
    },
    {
     "cy": "yfed",
     "en": "to drink",
-    "pr": "UV-ed"
+    "pr": "UV-ed",
+    "mnemonic": "Sounds close to “up-ed” — “I necked (upped) my drink”: yfed = to drink."
    },
    {
     "cy": "dysgu",
     "en": "to learn or teach",
-    "pr": "DUS-gee"
+    "pr": "DUS-gee",
+    "mnemonic": "This is the very word in “Dysgu Cymraeg” splashed across this app — you already know dysgu = to learn/teach."
    },
    {
     "cy": "darllen",
     "en": "to read",
-    "pr": "DAR-lhen"
+    "pr": "DAR-lhen",
+    "mnemonic": "Think of reading a “darn” (piece) of a page — darllen = to read."
    },
    {
     "cy": "prynu",
     "en": "to buy",
-    "pr": "PRUN-ee"
+    "pr": "PRUN-ee",
+    "mnemonic": "Sounds close to “prune-y” — picture pruning your wallet every time you buy something: prynu = to buy."
    },
    {
     "cy": "caru",
     "en": "to love",
-    "pr": "KAR-ee"
+    "pr": "KAR-ee",
+    "mnemonic": "Sounds like “care-oo” — to love is to care: caru = to love."
    }
   ]
  },
@@ -436,7 +520,8 @@
    {
     "cy": "Fy enw i yw…",
     "en": "My name is…",
-    "pr": "vuh EH-noo ee yoo"
+    "pr": "vuh EH-noo ee yoo",
+    "mnemonic": "fy (my) + enw (name) + i (I, for emphasis) + yw (is) → a logical build-up: “my name, I, is…”."
    },
    {
     "cy": "Dw i'n dysgu Cymraeg",
@@ -445,7 +530,8 @@
     "south": {
      "cy": "Rwy'n dysgu Cymraeg",
      "pr": "roo-een DUS-gee kum-RYGE"
-    }
+    },
+    "mnemonic": "Dw i’n (I am, the phrase you’ll see constantly) + dysgu (learn — see the verbs lesson) + Cymraeg (Welsh) → “I am learning Welsh”."
    },
    {
     "cy": "Dw i'n dod o…",
@@ -454,17 +540,20 @@
     "south": {
      "cy": "Rwy'n dod o…",
      "pr": "roo-een dohd oh"
-    }
+    },
+    "mnemonic": "Dw i’n (I am) + dod (come — see the verbs lesson) + o (from) → “I am coming from…”."
    },
    {
     "cy": "Dw i ddim yn deall",
     "en": "I don't understand",
-    "pr": "doo ee thim un DEH-ahlh"
+    "pr": "doo ee thim un DEH-ahlh",
+    "mnemonic": "Dw i (I) + ddim (not — picture a “dim” switch flicked off) + yn deall (understanding) → “I not understanding” = I don’t understand."
    },
    {
     "cy": "Siaradwch yn arafach",
     "en": "Speak more slowly",
-    "pr": "shar-AD-wch un ar-AV-ach"
+    "pr": "shar-AD-wch un ar-AV-ach",
+    "mnemonic": "Siaradwch (speak! — from siarad, see the verbs lesson) + yn arafach (more slowly) → “speak more slow-er”."
    },
    {
     "cy": "Dw i'n hoffi coffi",
@@ -473,22 +562,26 @@
     "south": {
      "cy": "Rwy'n hoffi coffi",
      "pr": "roo-een HOF-ee KOF-ee"
-    }
+    },
+    "mnemonic": "Dw i’n (I am) + hoffi (liking) + coffi (coffee) → the rhyme hoffi/coffi is the memory hook itself: “I’m liking coffee”."
    },
    {
     "cy": "Ble mae'r toiled?",
     "en": "Where is the toilet?",
-    "pr": "bleh mire TOY-led"
+    "pr": "bleh mire TOY-led",
+    "mnemonic": "Ble (where) + mae’r (is the) + toiled (toilet, borrowed straight from English) → barely needs translating."
    },
    {
     "cy": "Faint yw e?",
     "en": "How much is it?",
-    "pr": "vyent yoo eh"
+    "pr": "vyent yoo eh",
+    "mnemonic": "Faint (how much/many) + yw e (is it) → literally “how-much is it”."
    },
    {
     "cy": "Ga i de, os gwelwch yn dda?",
     "en": "Can I have a tea, please?",
-    "pr": "gah ee deh, os GWEL-ooch un thah"
+    "pr": "gah ee deh, os GWEL-ooch un thah",
+    "mnemonic": "Ga i (can I have) + de (tea) + os gwelwch yn dda (please — see the greetings lesson) → “get I tea, please”."
    },
    {
     "cy": "rŵan",
@@ -497,12 +590,14 @@
     "south": {
      "cy": "nawr",
      "pr": "nowr"
-    }
+    },
+    "mnemonic": "Sounds close to “ruin” — “do it now before it’s ruined!” (South Wales says nawr, which sounds just like English “now” — the easier one to remember.)"
    },
    {
     "cy": "Wela i chi wedyn",
     "en": "See you later",
-    "pr": "WEH-la ee chee WEH-din"
+    "pr": "WEH-la ee chee WEH-din",
+    "mnemonic": "Wela i (I’ll see — from gweld, see the verbs lesson) + chi (you) + wedyn (after) → “I’ll-see you after” = see you later."
    }
   ]
  },
@@ -515,72 +610,86 @@
    {
     "cy": "pen",
     "en": "head",
-    "pr": "pen"
+    "pr": "pen",
+    "mnemonic": "Identical to English “pen” — picture a pen balanced on top of your head: pen = head."
    },
    {
     "cy": "gwallt",
     "en": "hair",
-    "pr": "GWAHLT"
+    "pr": "GWAHLT",
+    "mnemonic": "Sounds close to “vault” — picture a vault of hair piled on your head: gwallt = hair."
    },
    {
     "cy": "llygad",
     "en": "eye (llygaid = eyes)",
-    "pr": "LHUH-gad"
+    "pr": "LHUH-gad",
+    "mnemonic": "Sounds like “look, gadget” — you need an eye to look at your gadget: llygad = eye."
    },
    {
     "cy": "trwyn",
     "en": "nose",
-    "pr": "TROO-in"
+    "pr": "TROO-in",
+    "mnemonic": "Sounds close to “true-in” — point it true, right at your nose: trwyn = nose."
    },
    {
     "cy": "ceg",
     "en": "mouth",
-    "pr": "keg"
+    "pr": "keg",
+    "mnemonic": "Sounds exactly like “keg” — picture a keg (barrel) as one big round mouth: ceg = mouth."
    },
    {
     "cy": "clust",
     "en": "ear",
-    "pr": "kloost"
+    "pr": "kloost",
+    "mnemonic": "Sounds close to “closed” — cup your hand round your ear to close out noise: clust = ear."
    },
    {
     "cy": "braich",
     "en": "arm (breichiau = arms)",
-    "pr": "brykh"
+    "pr": "brykh",
+    "mnemonic": "Sounds close to “brake” — pull the brake lever with your arm: braich = arm."
    },
    {
     "cy": "llaw",
     "en": "hand (dwylo = hands)",
-    "pr": "lhow"
+    "pr": "lhow",
+    "mnemonic": "Sounds close to “law” — “raise your hand, that’s the law!”: llaw = hand."
    },
    {
     "cy": "bys",
     "en": "finger (bysedd = fingers)",
-    "pr": "bees"
+    "pr": "bees",
+    "mnemonic": "Sounds exactly like “bees” — bees land one at a time on each finger: bys = finger."
    },
    {
     "cy": "coes",
     "en": "leg (coesau = legs)",
-    "pr": "koys"
+    "pr": "koys",
+    "mnemonic": "Sounds close to “coy” — stand coyly balanced on one leg: coes = leg."
    },
    {
     "cy": "troed",
     "en": "foot (traed = feet)",
-    "pr": "troyd"
+    "pr": "troyd",
+    "mnemonic": "Sounds close to “trod” — “I trod on your foot!”: troed = foot."
    },
    {
     "cy": "cefn",
     "en": "back",
-    "pr": "kevn"
+    "pr": "kevn",
+    "mnemonic": "Sounds close to “cave-in” — guard your back from a cave-in: cefn = back."
    },
    {
     "cy": "bol",
     "en": "tummy / stomach",
-    "pr": "bol"
+    "pr": "bol",
+    "mnemonic": "Sounds exactly like “bowl” — a round, bowl-shaped belly: bol = tummy."
    },
    {
     "cy": "ysgwydd",
     "en": "shoulder",
-    "pr": "us-GOO-ith"
+    "pr": "us-GOO-ith",
+    "mnemonic": "Sounds close to “ask with” — shrug your shoulders when you “ask with” a shrug: ysgwydd = shoulder."
    }
   ]
  },
@@ -593,92 +702,110 @@
    {
     "cy": "cegin",
     "en": "kitchen",
-    "pr": "KEG-in"
+    "pr": "KEG-in",
+    "mnemonic": "Shares its root with ceg (mouth, from the body lesson) — the kitchen is the “mouth” of the house, where food goes in."
    },
    {
     "cy": "lolfa",
     "en": "living room / lounge",
-    "pr": "LOL-va"
+    "pr": "LOL-va",
+    "mnemonic": "Sounds like “LOL-va” — picture lolling about on the sofa, laughing “LOL”: lolfa = living room."
    },
    {
     "cy": "ystafell wely",
     "en": "bedroom",
-    "pr": "us-TAV-elh WEH-lee"
+    "pr": "us-TAV-elh WEH-lee",
+    "mnemonic": "ystafell (room) + wely (bed) → literally “room of bed”: bedroom."
    },
    {
     "cy": "ystafell ymolchi",
     "en": "bathroom",
-    "pr": "us-TAV-elh uh-MOL-khee"
+    "pr": "us-TAV-elh uh-MOL-khee",
+    "mnemonic": "ystafell (room) + ymolchi (washing oneself, from golchi “to wash”) → literally “room for washing”: bathroom."
    },
    {
     "cy": "landin",
     "en": "landing",
-    "pr": "LAN-din"
+    "pr": "LAN-din",
+    "mnemonic": "Identical to English “landing” — the floor you land on between stairs."
    },
    {
     "cy": "atig",
     "en": "attic",
-    "pr": "AT-ig"
+    "pr": "AT-ig",
+    "mnemonic": "Identical to English “attic”."
    },
    {
     "cy": "gwely",
     "en": "bed",
-    "pr": "GWEH-lee"
+    "pr": "GWEH-lee",
+    "mnemonic": "Sounds close to “go-lie” — go lie down: gwely = bed."
    },
    {
     "cy": "soffa",
     "en": "sofa",
-    "pr": "SOF-a"
+    "pr": "SOF-a",
+    "mnemonic": "Identical to English “sofa”."
    },
    {
     "cy": "bwrdd",
     "en": "table",
-    "pr": "boorth"
+    "pr": "boorth",
+    "mnemonic": "Sounds close to “board” — a table is a flat board: bwrdd = table."
    },
    {
     "cy": "cadair",
     "en": "chair",
-    "pr": "KAD-eyer"
+    "pr": "KAD-eyer",
+    "mnemonic": "Sounds close to “cater” — caterers always set out chairs: cadair = chair."
    },
    {
     "cy": "ffwrn",
     "en": "oven",
-    "pr": "foorn"
+    "pr": "foorn",
+    "mnemonic": "Sounds close to “furnace” — ffwrn = oven."
    },
    {
     "cy": "sinc",
     "en": "sink",
-    "pr": "sink"
+    "pr": "sink",
+    "mnemonic": "Identical to English “sink”, just spelled Welsh-style."
    },
    {
     "cy": "oergell",
     "en": "fridge",
-    "pr": "OYER-gelh"
+    "pr": "OYER-gelh",
+    "mnemonic": "oer (cold) + cell (chamber) → literally “cold chamber”: oergell = fridge."
    },
    {
     "cy": "wardrob",
     "en": "wardrobe",
-    "pr": "war-DROB"
+    "pr": "war-DROB",
+    "mnemonic": "Identical to English “wardrobe”."
    },
    {
     "cy": "ffenestr",
     "en": "window",
-    "pr": "FEN-estr"
+    "pr": "FEN-estr",
+    "mnemonic": "Close to the Latin “fenestra” behind English “fenestration” — ffenestr = window."
    },
    {
     "cy": "drws",
     "en": "door",
-    "pr": "droos"
+    "pr": "droos",
+    "mnemonic": "Sounds close to “dross” — picture a big D-R-oo-S sign on it: drws = door."
    },
    {
     "cy": "teledu",
     "en": "television",
-    "pr": "teh-LEH-dee"
+    "pr": "teh-LEH-dee",
+    "mnemonic": "Built the same way as English tele-vision: tele- (far) + a form of gweld/golwg (to see/sight) → “far-seeing” box: teledu = TV."
    },
    {
     "cy": "cwpwrdd",
     "en": "cupboard",
-    "pr": "KOO-poorth"
+    "pr": "KOO-poorth",
+    "mnemonic": "Sounds almost identical to English “cupboard” itself: cwpwrdd = cupboard."
    }
   ]
  },
@@ -691,77 +818,92 @@
    {
     "cy": "gardd",
     "en": "garden",
-    "pr": "garth"
+    "pr": "garth",
+    "mnemonic": "Sounds close to English “garden” — in fact the two words share the very same old root: gardd = garden."
    },
    {
     "cy": "coeden",
     "en": "tree (coed = trees)",
-    "pr": "KOY-den"
+    "pr": "KOY-den",
+    "mnemonic": "Contains coed (trees/woods) — one coeden makes up the coed: coeden = tree."
    },
    {
     "cy": "blodyn",
     "en": "flower (blodau = flowers)",
-    "pr": "BLOD-in"
+    "pr": "BLOD-in",
+    "mnemonic": "Think “bloom” — a blodyn blooms: blodyn = flower."
    },
    {
     "cy": "glaswellt",
     "en": "grass",
-    "pr": "glas-WELHT"
+    "pr": "glas-WELHT",
+    "mnemonic": "glas (green) + gwellt (grass stalks) → literally “green-grass”: glaswellt = grass."
    },
    {
     "cy": "awyr",
     "en": "sky",
-    "pr": "OW-eer"
+    "pr": "OW-eer",
+    "mnemonic": "Sounds close to “aw, air!” — look up and say it: awyr = sky."
    },
    {
     "cy": "haul",
     "en": "sun",
-    "pr": "howl"
+    "pr": "howl",
+    "mnemonic": "Sounds like “howl” — howl at the sun: haul = sun."
    },
    {
     "cy": "lleuad",
     "en": "moon",
-    "pr": "LHEY-ad"
+    "pr": "LHEY-ad",
+    "mnemonic": "Shares its root with Dydd Llun (Monday, “Moon’s day”, from the days lesson): lleuad = moon."
    },
    {
     "cy": "seren",
     "en": "star (sêr = stars)",
-    "pr": "SEH-ren"
+    "pr": "SEH-ren",
+    "mnemonic": "Sounds close to “serene” — a serene, starry night: seren = star."
    },
    {
     "cy": "car",
     "en": "car",
-    "pr": "kar"
+    "pr": "kar",
+    "mnemonic": "Identical to English “car”."
    },
    {
     "cy": "ffordd",
     "en": "road",
-    "pr": "forth"
+    "pr": "forth",
+    "mnemonic": "Sounds close to “forth” — onward and forth down the road: ffordd = road."
    },
    {
     "cy": "pentref",
     "en": "village",
-    "pr": "PEN-trev"
+    "pr": "PEN-trev",
+    "mnemonic": "pen (head/end, from the body lesson) + tref (home-town, as in cartref) → literally “head of the home-town” — the settlement at the head of a valley."
    },
    {
     "cy": "tref",
     "en": "town",
-    "pr": "trehv"
+    "pr": "trehv",
+    "mnemonic": "The same tref running through cartref (home) and pentref (village) — the core “town/homestead” word."
    },
    {
     "cy": "mynydd",
     "en": "mountain",
-    "pr": "MUN-ith"
+    "pr": "MUN-ith",
+    "mnemonic": "Sounds close to “mount” with an extra syllable: mynydd = mountain."
    },
    {
     "cy": "afon",
     "en": "river",
-    "pr": "AV-on"
+    "pr": "AV-on",
+    "mnemonic": "Sounds close to “Avon” — the River Avon in England takes its very name from this old Celtic word for river: afon = river."
    },
    {
     "cy": "môr",
     "en": "sea",
-    "pr": "mohr"
+    "pr": "mohr",
+    "mnemonic": "Sounds exactly like French “mer” (sea) and close to English “more” — the sea has more water than anything: môr = sea."
    }
   ]
  },
@@ -774,62 +916,74 @@
    {
     "cy": "modryb",
     "en": "aunt",
-    "pr": "MOD-rib"
+    "pr": "MOD-rib",
+    "mnemonic": "Sounds close to “mod rib” — picture your stylish “mod” aunt: modryb = aunt."
    },
    {
     "cy": "ewythr",
     "en": "uncle",
-    "pr": "EH-ooithr"
+    "pr": "EH-ooithr",
+    "mnemonic": "Sounds close to “youth-er” — your youthful uncle who still acts young: ewythr = uncle."
    },
    {
     "cy": "cefnder",
     "en": "male cousin",
-    "pr": "KEV-nder"
+    "pr": "KEV-nder",
+    "mnemonic": "Contains cefn (back, from the body lesson) — a handy hook: “the cousin who has your back”: cefnder = male cousin."
    },
    {
     "cy": "cyfnither",
     "en": "female cousin",
-    "pr": "kuv-NITH-er"
+    "pr": "kuv-NITH-er",
+    "mnemonic": "Starts with cyf- (co-/shared, as in cyfaill “friend”) and ends like nith (niece) — think “co-niece”: cyfnither = female cousin."
    },
    {
     "cy": "gŵr",
     "en": "husband",
-    "pr": "goor"
+    "pr": "goor",
+    "mnemonic": "Short and sounds close to English “gore” — remember it as the root behind words like arwr (hero): gŵr = husband."
    },
    {
     "cy": "gwraig",
     "en": "wife",
-    "pr": "GWRYG"
+    "pr": "GWRYG",
+    "mnemonic": "Simply the female counterpart of gŵr (husband) above — swap the ending and you have “wife”: gwraig."
    },
    {
     "cy": "mab",
     "en": "son (meibion = sons)",
-    "pr": "mahb"
+    "pr": "mahb",
+    "mnemonic": "Sounds close to “mob” — “my mob includes my son”: mab = son (also the root of old Welsh surnames like ap Llywelyn, “son of Llywelyn”)."
    },
    {
     "cy": "merch",
     "en": "daughter (merched = daughters)",
-    "pr": "mehrkh"
+    "pr": "mehrkh",
+    "mnemonic": "Sounds close to “merch”-andise — picture a market-seller’s daughter: merch = daughter (also the everyday word for “girl”)."
    },
    {
     "cy": "ŵyr",
     "en": "grandson",
-    "pr": "OO-eer"
+    "pr": "OO-eer",
+    "mnemonic": "Sounds close to “ewer” (a small jug) — a small jug for a small grandson: ŵyr = grandson."
    },
    {
     "cy": "wyres",
     "en": "granddaughter",
-    "pr": "OO-eer-es"
+    "pr": "OO-eer-es",
+    "mnemonic": "The female form of ŵyr (grandson) above, with the -es ending you’ll meet again in athrawes (female teacher): wyres = granddaughter."
    },
    {
     "cy": "nai",
     "en": "nephew",
-    "pr": "nye"
+    "pr": "nye",
+    "mnemonic": "Sounds close to “nigh” — your nephew is always nigh (near) at family gatherings: nai = nephew."
    },
    {
     "cy": "nith",
     "en": "niece",
-    "pr": "neeth"
+    "pr": "neeth",
+    "mnemonic": "Sounds almost exactly like English “niece” itself — the closest sound-match on this whole list: nith = niece."
    }
   ]
  },
@@ -842,62 +996,74 @@
    {
     "cy": "athro",
     "en": "teacher (m.); athrawes = female teacher",
-    "pr": "ATH-ro"
+    "pr": "ATH-ro",
+    "mnemonic": "Shares its root with dysgu (to teach/learn) and gives us athrawes with the -es feminine ending (see wyres, above): athro = teacher."
    },
    {
     "cy": "meddyg",
     "en": "doctor",
-    "pr": "METH-ig"
+    "pr": "METH-ig",
+    "mnemonic": "Sounds very close to English “medic”: meddyg = doctor."
    },
    {
     "cy": "nyrs",
     "en": "nurse",
-    "pr": "nurs"
+    "pr": "nurs",
+    "mnemonic": "Identical to English “nurse”, just spelled Welsh-style."
    },
    {
     "cy": "ffermwr",
     "en": "farmer",
-    "pr": "FEHR-moor"
+    "pr": "FEHR-moor",
+    "mnemonic": "fferm (farm, borrowed from English) + -wr (a very common “person who does X” ending, also in gyrrwr, adeiladwr below) → “farm-person”: ffermwr = farmer."
    },
    {
     "cy": "peiriannydd",
     "en": "engineer",
-    "pr": "pey-ree-AN-ith"
+    "pr": "pey-ree-AN-ith",
+    "mnemonic": "peiriant (machine/engine) + -ydd (another “doer” ending, also in cogydd, pobydd below) → “machine-person”: peiriannydd = engineer."
    },
    {
     "cy": "cogydd",
     "en": "chef / cook",
-    "pr": "KOG-ith"
+    "pr": "KOG-ith",
+    "mnemonic": "cog- (cook) + -ydd (the same doer-ending as peiriannydd) → “cook-person”: cogydd = chef."
    },
    {
     "cy": "plismon",
     "en": "police officer (m.); plismones = female officer",
-    "pr": "PLIS-mon"
+    "pr": "PLIS-mon",
+    "mnemonic": "plis- (police, borrowed from English) + -mon (man) → literally “police-man”, exactly like English: plismon = police officer."
    },
    {
     "cy": "diffoddwr tân",
     "en": "firefighter",
-    "pr": "dee-FOTH-oor tahn"
+    "pr": "dee-FOTH-oor tahn",
+    "mnemonic": "diffodd (put out/extinguish) + -wr (doer-ending) + tân (fire) → literally “put-out-er of fire”: diffoddwr tân = firefighter."
    },
    {
     "cy": "gyrrwr",
     "en": "driver",
-    "pr": "GUR-oor"
+    "pr": "GUR-oor",
+    "mnemonic": "gyrru (to drive) + -wr (the same doer-ending as ffermwr, adeiladwr) → “drive-person”: gyrrwr = driver."
    },
    {
     "cy": "cyfreithiwr",
     "en": "lawyer",
-    "pr": "kuv-RYTH-yoor"
+    "pr": "kuv-RYTH-yoor",
+    "mnemonic": "cyfraith (law) + -wr (doer-ending) → “law-person”: cyfreithiwr = lawyer."
    },
    {
     "cy": "pobydd",
     "en": "baker",
-    "pr": "POB-ith"
+    "pr": "POB-ith",
+    "mnemonic": "pobi (to bake) + -ydd (the same doer-ending as peiriannydd, cogydd) → “bake-person”: pobydd = baker."
    },
    {
     "cy": "adeiladwr",
     "en": "builder",
-    "pr": "ad-ey-LAD-oor"
+    "pr": "ad-ey-LAD-oor",
+    "mnemonic": "adeiladu (to build) + -wr (the same doer-ending as ffermwr, gyrrwr) → “build-person”: adeiladwr = builder."
    }
   ]
  }

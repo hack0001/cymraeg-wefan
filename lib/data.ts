@@ -8,6 +8,8 @@ export type Item = {
   en: string;
   pr: string;
   south?: { cy: string; pr: string };
+  /** A memory aid: a real word-breakdown where the word is a compound, or a sound/visual trick otherwise. */
+  mnemonic?: string;
 };
 
 export type Lesson = {
@@ -26,6 +28,8 @@ export type Phrase = {
   pr: string;
   /** The form used in the other dialect, if it differs. */
   alt?: string;
+  /** A memory aid for this word, if one exists. */
+  mnemonic?: string;
   lessonId: string;
 };
 
@@ -35,9 +39,9 @@ export const getLesson = (id: string) => LESSONS.find(l => l.id === id);
 
 export function resolve(item: Item, dialect: Dialect, lessonId: string): Phrase {
   if (dialect === 'south' && item.south) {
-    return { key: item.cy, cy: item.south.cy, en: item.en, pr: item.south.pr, alt: item.cy, lessonId };
+    return { key: item.cy, cy: item.south.cy, en: item.en, pr: item.south.pr, alt: item.cy, mnemonic: item.mnemonic, lessonId };
   }
-  return { key: item.cy, cy: item.cy, en: item.en, pr: item.pr, alt: item.south?.cy, lessonId };
+  return { key: item.cy, cy: item.cy, en: item.en, pr: item.pr, alt: item.south?.cy, mnemonic: item.mnemonic, lessonId };
 }
 
 export const lessonPhrases = (l: Lesson, d: Dialect) => l.items.map(it => resolve(it, d, l.id));
