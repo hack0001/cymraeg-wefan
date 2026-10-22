@@ -1529,7 +1529,7 @@
     "cy": "newydd",
     "en": "new",
     "pr": "NEH-with",
-    "mnemonic": "Sounds close to “new width” — a newydd (new) road has a new width: newydd = new."
+    "mnemonic": "Sounds close to “new width” — a newydd (new) road has a new width: newydd = new. Newydd also means “just” right before a verb-noun: newydd gyrraedd = just arrived."
    },
    {
     "cy": "hawdd",
@@ -1660,6 +1660,30 @@
     "en": "full",
     "pr": "lhown",
     "mnemonic": "Sounds close to “lawn” — a lawn full of grass: llawn = full."
+   },
+   {
+    "cy": "anferth",
+    "en": "huge / enormous",
+    "pr": "AN-verth",
+    "mnemonic": "Sounds close to “an earth” — something as huge as an entire earth: anferth = huge."
+   },
+   {
+    "cy": "uchel",
+    "en": "high",
+    "pr": "OOKH-el",
+    "mnemonic": "Shares its root with uwchben (above, from the directions lesson) — uchel = high, the plain adjective behind it."
+   },
+   {
+    "cy": "posib",
+    "en": "possible",
+    "pr": "POS-ib",
+    "mnemonic": "Nearly identical to English “possible”: posib."
+   },
+   {
+    "cy": "amhosib",
+    "en": "impossible",
+    "pr": "am-HOS-ib",
+    "mnemonic": "am- (a negative prefix, the same pattern as anodd “difficult” vs hawdd “easy”) + posib (possible) → “not possible”: amhosib = impossible."
    }
   ]
  },
@@ -2886,6 +2910,268 @@
     "en": "everything's fine",
     "pr": "POP-eth un yown",
     "mnemonic": "popeth (everything) + yn iawn (okay/right) → literally “everything okay”: popeth yn iawn."
+   }
+  ]
+ },
+ {
+  "id": "directions-giving",
+  "title": "Giving directions",
+  "cy": "Rhoi Cyfarwyddiadau",
+  "blurb": "The prepositions and phrases for saying where things are and how to get there — on the left, over the bridge, past the lights.",
+  "items": [
+   {
+    "cy": "ar y chwith",
+    "en": "on the left",
+    "pr": "ar uh khwith",
+    "mnemonic": "ar (on) + y chwith (the left, from the directions lesson) → literally “on the left”: ar y chwith."
+   },
+   {
+    "cy": "ar y dde",
+    "en": "on the right",
+    "pr": "ar uh deh",
+    "mnemonic": "ar (on) + y dde (the right, from the directions lesson) → literally “on the right”: ar y dde."
+   },
+   {
+    "cy": "yr ail ar y chwith",
+    "en": "the second on the left",
+    "pr": "ur eyel ar uh khwith",
+    "mnemonic": "yr ail (the second) + ar y chwith (on the left, just above) → the classic direction-giving phrase: yr ail ar y chwith."
+   },
+   {
+    "cy": "i lawr y stryd",
+    "en": "down the street",
+    "pr": "ee lowr uh streed",
+    "mnemonic": "i lawr (down, from the directions lesson) + y stryd (the street, borrowed straight from English) → “down the street”: i lawr y stryd."
+   },
+   {
+    "cy": "dros y bont",
+    "en": "over the bridge",
+    "pr": "dross uh bont",
+    "mnemonic": "dros (over, from the prepositions lesson) + y bont (the bridge, mutated from pont) → “over the bridge”: dros y bont."
+   },
+   {
+    "cy": "ewch heibio i'r goleuadau traffig",
+    "en": "go past the traffic lights",
+    "pr": "eh-ookh HAY-byoh eer go-lay-AD-eye TRAF-ig",
+    "mnemonic": "ewch (go!) + heibio i'r (past the) + goleuadau traffig (traffic lights — goleuadau = lights) → “go past the traffic lights”. (You may also see it written without i'r: ewch heibio'r goleuadau traffig.)"
+   },
+   {
+    "cy": "uwchben",
+    "en": "above",
+    "pr": "OOKH-ben",
+    "mnemonic": "uwch (higher) + pen (head, from the body lesson) → literally “higher-head” = above: uwchben. (Pairs with islaw, below, right after.)"
+   },
+   {
+    "cy": "islaw",
+    "en": "below",
+    "pr": "is-LOW",
+    "mnemonic": "is- (lower, the opposite of uwch) → islaw = below, the natural partner of uwchben (above), just above."
+   },
+   {
+    "cy": "o dan",
+    "en": "under",
+    "pr": "oh dan",
+    "mnemonic": "o (of) + dan (under, already met in the prepositions lesson) → the fuller, everyday way to say “under”: o dan."
+   },
+   {
+    "cy": "o flaen",
+    "en": "in front of",
+    "pr": "oh vlyne",
+    "mnemonic": "o (of) + blaen (front/tip, soft-mutated to flaen) → literally “of the front” = in front of: o flaen."
+   },
+   {
+    "cy": "y tu ôl i",
+    "en": "behind",
+    "pr": "uh tee ohl ee",
+    "mnemonic": "tu (side) + ôl (back) + i (to) → literally “the back-side to” = behind: y tu ôl i."
+   },
+   {
+    "cy": "wrth ymyl",
+    "en": "next to / beside",
+    "pr": "oorth UM-il",
+    "mnemonic": "wrth (by, from the prepositions lesson) + ymyl (edge/margin) → literally “by the edge” = next to: wrth ymyl."
+   },
+   {
+    "cy": "gyferbyn",
+    "en": "opposite",
+    "pr": "guh-VER-bin",
+    "mnemonic": "Sounds close to “give a bin” — picture a bin placed directly opposite your front door: gyferbyn = opposite."
+   },
+   {
+    "cy": "cariwch yn syth ymlaen",
+    "en": "carry straight on",
+    "pr": "KAR-ee-ookh un seeth um-LINE",
+    "mnemonic": "cariwch (carry!, from cario) + yn syth (straight) + ymlaen (onward) → literally “carry straight on” — exactly the same idiom as English “carry on”! cariwch yn syth ymlaen."
+   },
+   {
+    "cy": "trowch i'r dde",
+    "en": "turn right",
+    "pr": "trokh eer deh",
+    "mnemonic": "trowch (turn!, from troi) + i'r dde (to the right) → “turn right”: trowch i'r dde."
+   },
+   {
+    "cy": "trowch i'r chwith",
+    "en": "turn left",
+    "pr": "trokh eer khwith",
+    "mnemonic": "trowch (turn!) + i'r chwith (to the left) → “turn left”: trowch i'r chwith."
+   },
+   {
+    "cy": "y cyntaf ar y dde",
+    "en": "the first on the right",
+    "pr": "uh KUN-tav ar uh deh",
+    "mnemonic": "y cyntaf (the first) + ar y dde (on the right, from just above) → “the first on the right”: y cyntaf ar y dde."
+   },
+   {
+    "cy": "cymerwch y trydydd ar y dde",
+    "en": "take the third on the right",
+    "pr": "kuh-MER-ookh uh TRUH-dith ar uh deh",
+    "mnemonic": "cymerwch (take!, from cymryd) + y trydydd (the third) + ar y dde (on the right) → “take the third on the right”."
+   },
+   {
+    "cy": "croeswch y sgwâr",
+    "en": "cross the square",
+    "pr": "KROYS-ookh uh sgwar",
+    "mnemonic": "croeswch (cross!, from croesi) + y sgwâr (the square, borrowed from English) → “cross the square”: croeswch y sgwâr."
+   },
+   {
+    "cy": "sgwâr",
+    "en": "square",
+    "pr": "sgwar",
+    "mnemonic": "Nearly identical to English “square”: sgwâr."
+   },
+   {
+    "cy": "eglwys gadeiriol",
+    "en": "cathedral",
+    "pr": "EG-looees ga-DAY-ryol",
+    "mnemonic": "eglwys (church) + cadeiriol (relating to a cadair, “chair” — the bishop's seat, soft-mutated to gadeiriol) → literally “chair-church” = cathedral, the church with the bishop's seat: eglwys gadeiriol."
+   }
+  ]
+ },
+ {
+  "id": "conversation",
+  "title": "Everyday conversational phrases",
+  "cy": "Ymadroddion Sgwrs",
+  "blurb": "Real phrases pulled straight from a Welsh dialogue — asking for help, saying you're lost, and more.",
+  "items": [
+   {
+    "cy": "Esgusodwch fi",
+    "en": "Excuse me",
+    "pr": "es-gi-SOD-ookh vee",
+    "mnemonic": "Nearly identical to English “excuse it” said quickly: Esgusodwch fi = excuse me."
+   },
+   {
+    "cy": "Gaf i'ch helpu chi?",
+    "en": "Can I help you?",
+    "pr": "gav eekh HEL-pee khee",
+    "mnemonic": "Gaf i (can I have/get, from cael) + 'ch helpu (help you) + chi (you) → literally “can I help you”: Gaf i'ch helpu chi?"
+   },
+   {
+    "cy": "Dyn ni ar goll",
+    "en": "We're lost",
+    "pr": "din nee ar gohlh",
+    "mnemonic": "Dyn ni (we are) + ar goll (lost, literally “on loss”) → “we are lost”: Dyn ni ar goll."
+   },
+   {
+    "cy": "Mae rhaid i chi",
+    "en": "You have to / you must",
+    "pr": "my rhide ee khee",
+    "mnemonic": "Mae (is) + rhaid (necessity) + i chi (to/for you) → literally “there is necessity to you” = you must: Mae rhaid i chi."
+   },
+   {
+    "cy": "Dw i newydd gyrraedd",
+    "en": "I've just arrived",
+    "pr": "doo ee NEH-with guh-RYE-eth",
+    "mnemonic": "Dw i (I am) + newydd (just — the idiom from the adjectives lesson) + gyrraedd (arrived, mutated from cyrraedd) → “I'm just-arrived”: Dw i newydd gyrraedd."
+   },
+   {
+    "cy": "gwybod",
+    "en": "to know (a fact)",
+    "pr": "GOO-ee-bod",
+    "mnemonic": "Sounds close to “who, you, bod” — you need to KNOW who's who: gwybod = to know."
+   },
+   {
+    "cy": "cyrraedd",
+    "en": "to arrive",
+    "pr": "kuh-RYE-eth",
+    "mnemonic": "Sounds close to “curried, eth” — arrive just as the curry's ready: cyrraedd = to arrive."
+   },
+   {
+    "cy": "rhaid",
+    "en": "necessity / must",
+    "pr": "rhide",
+    "mnemonic": "Sounds close to “ride” — you must ride, there's no choice: rhaid = must/necessity."
+   },
+   {
+    "cy": "troi",
+    "en": "to turn",
+    "pr": "troy",
+    "mnemonic": "Sounds close to “Troy” — the Trojan horse had to turn to get through the gates: troi = to turn."
+   },
+   {
+    "cy": "cymryd",
+    "en": "to take",
+    "pr": "KUM-rid",
+    "mnemonic": "Sounds close to “come, rid” — come and take it away: cymryd = to take."
+   },
+   {
+    "cy": "croesi",
+    "en": "to cross",
+    "pr": "KROY-see",
+    "mnemonic": "Shares its root with croeso (welcome, from the greetings lesson) — but croesi = to cross (a road, a square)."
+   },
+   {
+    "cy": "wedyn",
+    "en": "then / afterwards",
+    "pr": "WED-in",
+    "mnemonic": "You've already met this in “Wela i chi wedyn” (see you later) from the phrases lesson — wedyn = then."
+   },
+   {
+    "cy": "i ffwrdd",
+    "en": "away",
+    "pr": "ee foorth",
+    "mnemonic": "i (to) + ffwrdd (away, borrowed from English “forward”) → literally “to away” = away: i ffwrdd."
+   },
+   {
+    "cy": "am dipyn",
+    "en": "for a while",
+    "pr": "am DIP-in",
+    "mnemonic": "am (for) + dipyn (a bit) → literally “for a bit” = for a while: am dipyn."
+   },
+   {
+    "cy": "grisiau",
+    "en": "stairs",
+    "pr": "GRIS-eye",
+    "mnemonic": "Sounds close to “grease, eye” — careful, greasy stairs! grisiau = stairs."
+   },
+   {
+    "cy": "pobl",
+    "en": "people",
+    "pr": "POH-bl",
+    "mnemonic": "Sounds close to “pop, 'll” — a pop concert full of people: pobl = people."
+   },
+   {
+    "cy": "dinas",
+    "en": "city",
+    "pr": "DEE-nas",
+    "mnemonic": "Sounds close to “dine, as” — dine out, as you would in a big city: dinas = city."
+   },
+   {
+    "cy": "addas",
+    "en": "suitable",
+    "pr": "AD-as",
+    "mnemonic": "Sounds close to “add as” — add exactly as much as is suitable: addas = suitable."
+   },
+   {
+    "cy": "anabl",
+    "en": "disabled",
+    "pr": "AN-abl",
+    "mnemonic": "an- (negative prefix) + abl (able, borrowed from English) → literally “not-able”: anabl = disabled."
+   },
+   {
+    "cy": "canol y dref",
+    "en": "town centre",
+    "pr": "KAN-ol uh drev",
+    "mnemonic": "canol (middle, from the directions lesson) + y dref (the town, mutated from tref) → literally “middle of the town”: canol y dref."
    }
   ]
  }
