@@ -150,3 +150,10 @@ td.k{font-family:var(--display);font-weight:700}
 .row .pron .alt{font-style:normal}
 .page-h{font-size:2rem;margin-bottom:.4rem}
 .pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;font-family:var(--display)}
+
+/* daily lesson */
+.daily{background:var(--surface);border-radius:14px;padding:1.2rem 1.1rem}
+.daily.daily-prompt{border:2px solid var(--gorse)}
+.daily.daily-done{border:2px solid var(--green)}
+.daily-line{font-size:1.05rem;line-height:1.5;margin:0;max-width:none}
+.daily .actions{margin-top:1rem}

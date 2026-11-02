@@ -3174,5 +3174,279 @@
     "mnemonic": "canol (middle, from the directions lesson) + y dref (the town, mutated from tref) → literally “middle of the town”: canol y dref."
    }
   ]
+ },
+ {
+  "id": "past-tense-irregular",
+  "title": "Past tense: mynd, gwneud, cael, dod",
+  "cy": "Amser Gorffennol: Berfau Afreolaidd",
+  "blurb": "The four irregular verbs that don't follow the normal pattern — memorise these short forms, plus the universal Do/Naddo for answering.",
+  "items": [
+   {
+    "cy": "Es i",
+    "en": "I went",
+    "pr": "ess ee",
+    "mnemonic": "The irregular short form of mynd for ‘I’ — no ending to add, just memorise: Es i = I went."
+   },
+   {
+    "cy": "Est ti",
+    "en": "you went",
+    "pr": "est tee",
+    "mnemonic": "ti (you) pairs with a -t sound across all four irregular verbs — est, gwnest, cest, dest: Est ti = you went."
+   },
+   {
+    "cy": "Aeth e",
+    "en": "he went",
+    "pr": "eyeth eh",
+    "mnemonic": "The ‘he/she’ form starts with the full aeth-, unlike the shortened es/est for i/ti: Aeth e = he went."
+   },
+   {
+    "cy": "Aeth hi",
+    "en": "she went",
+    "pr": "eyeth hee",
+    "mnemonic": "Same word as Aeth e, just for ‘she’: Aeth hi = she went."
+   },
+   {
+    "cy": "Aethon ni",
+    "en": "we went",
+    "pr": "EYE-thon nee",
+    "mnemonic": "ni (we) pairs with -on across all four irregular verbs — aethon, gwnaethon, cawson, daethon: Aethon ni = we went."
+   },
+   {
+    "cy": "Aethoch chi",
+    "en": "you went (formal/plural)",
+    "pr": "EYE-thokh khee",
+    "mnemonic": "chi (you, formal/plural) pairs with -och — aethoch, gwnaethoch, cawsoch, daethoch: Aethoch chi = you went."
+   },
+   {
+    "cy": "Aethon nhw",
+    "en": "they went",
+    "pr": "EYE-thon noo",
+    "mnemonic": "nhw (they) shares the same -on ending as ni (we) — only the pronoun tells them apart: Aethon nhw = they went."
+   },
+   {
+    "cy": "Gwnes i",
+    "en": "I did / I made",
+    "pr": "gwness ee",
+    "mnemonic": "The irregular short form of gwneud for ‘I’ — Gwnes i = I did/made. (Drops the G to Wnes in negatives and questions.)"
+   },
+   {
+    "cy": "Gwnest ti",
+    "en": "you did / you made",
+    "pr": "gwnest tee",
+    "mnemonic": "ti (you) + the same -t pattern as Est ti: Gwnest ti = you did/made."
+   },
+   {
+    "cy": "Gwnaeth e",
+    "en": "he did / he made",
+    "pr": "GWNEYE-th eh",
+    "mnemonic": "Same aeth- shape as mynd’s Aeth e, just with gwn- stuck on the front: Gwnaeth e = he did/made."
+   },
+   {
+    "cy": "Gwnaeth hi",
+    "en": "she did / she made",
+    "pr": "GWNEYE-th hee",
+    "mnemonic": "Gwnaeth hi = she did/made."
+   },
+   {
+    "cy": "Gwnaethon ni",
+    "en": "we did / we made",
+    "pr": "gwn-EYE-thon nee",
+    "mnemonic": "The same -on ending as Aethon ni: Gwnaethon ni = we did/made."
+   },
+   {
+    "cy": "Gwnaethoch chi",
+    "en": "you did / you made (formal/plural)",
+    "pr": "gwn-EYE-thokh khee",
+    "mnemonic": "The same -och ending as Aethoch chi: Gwnaethoch chi = you did/made."
+   },
+   {
+    "cy": "Gwnaethon nhw",
+    "en": "they did / they made",
+    "pr": "gwn-EYE-thon noo",
+    "mnemonic": "Gwnaethon nhw = they did/made."
+   },
+   {
+    "cy": "Ces i",
+    "en": "I had / I got",
+    "pr": "kess ee",
+    "mnemonic": "The irregular short form of cael for ‘I’ — Ces i = I had/got."
+   },
+   {
+    "cy": "Cest ti",
+    "en": "you had / you got",
+    "pr": "kest tee",
+    "mnemonic": "Cest ti = you had/got — the same -t pattern as Est ti, Gwnest ti."
+   },
+   {
+    "cy": "Cafodd e",
+    "en": "he had / he got",
+    "pr": "KAV-oth eh",
+    "mnemonic": "Cael switches shape for ‘he/she’: cafodd, not caeth — Cafodd e = he had/got."
+   },
+   {
+    "cy": "Cafodd hi",
+    "en": "she had / she got",
+    "pr": "KAV-oth hee",
+    "mnemonic": "Cafodd hi = she had/got."
+   },
+   {
+    "cy": "Cawson ni",
+    "en": "we had / we got",
+    "pr": "KOW-son nee",
+    "mnemonic": "Cael swaps ‘f’ for ‘ws’ in the plural forms (cawson, not cafon): Cawson ni = we had/got."
+   },
+   {
+    "cy": "Cawsoch chi",
+    "en": "you had / you got (formal/plural)",
+    "pr": "KOW-sokh khee",
+    "mnemonic": "This is the ‘Beth gawsoch chi?’ form from your notes (mutated after beth): Cawsoch chi = you had/got."
+   },
+   {
+    "cy": "Cawson nhw",
+    "en": "they had / they got",
+    "pr": "KOW-son noo",
+    "mnemonic": "Cawson nhw = they had/got."
+   },
+   {
+    "cy": "Des i",
+    "en": "I came",
+    "pr": "dess ee",
+    "mnemonic": "The irregular short form of dod for ‘I’ — nearly identical shape to Es i (mynd), just with a d: Des i = I came."
+   },
+   {
+    "cy": "Dest ti",
+    "en": "you came",
+    "pr": "dest tee",
+    "mnemonic": "Dest ti = you came — the same -t pattern again."
+   },
+   {
+    "cy": "Daeth e",
+    "en": "he came",
+    "pr": "DEYE-th eh",
+    "mnemonic": "Daeth e = he came."
+   },
+   {
+    "cy": "Daeth hi",
+    "en": "she came",
+    "pr": "DEYE-th hee",
+    "mnemonic": "Daeth hi = she came."
+   },
+   {
+    "cy": "Daethon ni",
+    "en": "we came",
+    "pr": "DEYE-thon nee",
+    "mnemonic": "The same -on ending as Aethon ni, Gwnaethon ni, Cawson ni: Daethon ni = we came."
+   },
+   {
+    "cy": "Daethoch chi",
+    "en": "you came (formal/plural)",
+    "pr": "DEYE-thokh khee",
+    "mnemonic": "Daethoch chi = you came."
+   },
+   {
+    "cy": "Daethon nhw",
+    "en": "they came",
+    "pr": "DEYE-thon noo",
+    "mnemonic": "Daethon nhw = they came."
+   },
+   {
+    "cy": "Do",
+    "en": "yes (answering a short-past question)",
+    "pr": "doh",
+    "mnemonic": "The universal ‘yes’ for any short-past question, whatever the verb or person: Do = yes, it did happen."
+   },
+   {
+    "cy": "Naddo",
+    "en": "no (answering a short-past question)",
+    "pr": "NA-tho",
+    "mnemonic": "The universal ‘no’ for any short-past question: Naddo = no, it didn’t happen."
+   }
+  ]
+ },
+ {
+  "id": "past-tense-regular",
+  "title": "Past tense: regular verbs",
+  "cy": "Amser Gorffennol: Berfau Rheolaidd",
+  "blurb": "Every other verb follows one pattern: stem + -ais i / -aist ti / -odd / -on ni / -och chi / -on nhw.",
+  "items": [
+   {
+    "cy": "Siaradais i",
+    "en": "I spoke",
+    "pr": "sha-RAD-eye ee",
+    "mnemonic": "The regular pattern’s ‘I’ ending is -ais i — Siaradais i = I spoke. Every regular verb takes this same ending."
+   },
+   {
+    "cy": "Siaradaist ti",
+    "en": "you spoke",
+    "pr": "sha-RAD-eyest tee",
+    "mnemonic": "The regular ‘you’ ending is -aist ti — Siaradaist ti = you spoke."
+   },
+   {
+    "cy": "Siaradodd e",
+    "en": "he spoke",
+    "pr": "sha-RAD-oth eh",
+    "mnemonic": "The regular ‘he/she’ ending is -odd — Siaradodd e = he spoke."
+   },
+   {
+    "cy": "Siaradodd hi",
+    "en": "she spoke",
+    "pr": "sha-RAD-oth hee",
+    "mnemonic": "Siaradodd hi = she spoke."
+   },
+   {
+    "cy": "Siaradon ni",
+    "en": "we spoke",
+    "pr": "sha-RAD-on nee",
+    "mnemonic": "The regular ‘we’ ending is -on ni — Siaradon ni = we spoke."
+   },
+   {
+    "cy": "Siaradoch chi",
+    "en": "you spoke (formal/plural)",
+    "pr": "sha-RAD-okh khee",
+    "mnemonic": "The regular ‘you’ (formal/plural) ending is -och chi — Siaradoch chi = you spoke."
+   },
+   {
+    "cy": "Siaradon nhw",
+    "en": "they spoke",
+    "pr": "sha-RAD-on noo",
+    "mnemonic": "The regular ‘they’ ending is -on nhw, identical to ‘we’ — Siaradon nhw = they spoke."
+   },
+   {
+    "cy": "Agorais i",
+    "en": "I opened",
+    "pr": "a-GOR-eye ee",
+    "mnemonic": "agor (to open) + -ais i → Agorais i = I opened."
+   },
+   {
+    "cy": "Edrychais i",
+    "en": "I looked",
+    "pr": "ed-RIKH-eye ee",
+    "mnemonic": "edrych (to look) + -ais i → Edrychais i = I looked."
+   },
+   {
+    "cy": "Canais i",
+    "en": "I sang",
+    "pr": "KAN-eye ee",
+    "mnemonic": "canu (to sing) + -ais i → Canais i = I sang. (Mutates to Ganais i in negatives/questions.)"
+   },
+   {
+    "cy": "Nofiais i",
+    "en": "I swam",
+    "pr": "NOV-yeye ee",
+    "mnemonic": "nofio (to swim) + -ais i → Nofiais i = I swam."
+   },
+   {
+    "cy": "Cerddais i",
+    "en": "I walked",
+    "pr": "KER-theye ee",
+    "mnemonic": "cerdded (to walk) + -ais i → Cerddais i = I walked."
+   },
+   {
+    "cy": "Yfedais i",
+    "en": "I drank",
+    "pr": "uv-ED-eye ee",
+    "mnemonic": "yfed (to drink) + -ais i → Yfedais i = I drank."
+   }
+  ]
  }
 ]

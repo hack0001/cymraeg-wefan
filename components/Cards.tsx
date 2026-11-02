@@ -15,7 +15,7 @@ const shuffle = <T,>(a: T[]) => {
 };
 
 export default function Cards({ deck }: { deck: string }) {
-  const { dialect, direction, setDirection, markLearned } = useApp();
+  const { dialect, direction, setDirection, markLearned, completeDailyIfToday } = useApp();
   const [queue, setQueue] = useState<Phrase[] | null>(null);
   const [total, setTotal] = useState(0);
   const [done, setDone] = useState(0);
@@ -30,6 +30,10 @@ export default function Cards({ deck }: { deck: string }) {
     setDone(0);
     setFlipped(false);
   }, [deck, dialect, round]);
+
+  useEffect(() => {
+    if (queue && queue.length === 0) completeDailyIfToday(deck);
+  }, [queue, deck, completeDailyIfToday]);
 
   const decks: [string, string][] = [['all', 'All'], ...LESSONS.map(l => [l.id, l.title] as [string, string])];
 

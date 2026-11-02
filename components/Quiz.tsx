@@ -25,7 +25,7 @@ function build(pool: Phrase[]): Question[] {
 }
 
 export default function Quiz({ lessonId }: { lessonId: string }) {
-  const { dialect, saveScore } = useApp();
+  const { dialect, saveScore, completeDailyIfToday } = useApp();
   const lesson = getLesson(lessonId)!;
   const [attempt, setAttempt] = useState(0);
   const [qs, setQs] = useState<Question[] | null>(null);
@@ -40,7 +40,10 @@ export default function Quiz({ lessonId }: { lessonId: string }) {
 
   const finished = qs !== null && i >= qs.length;
   useEffect(() => {
-    if (finished && qs) saveScore(lessonId, Math.round((score / qs.length) * 100));
+    if (finished && qs) {
+      saveScore(lessonId, Math.round((score / qs.length) * 100));
+      completeDailyIfToday(lessonId);
+    }
   }, [finished]); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (!qs) return <div className="stage" aria-busy="true"><p className="q-label">Loading the quiz…</p></div>;
