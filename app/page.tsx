@@ -2,6 +2,7 @@ import Link from 'next/link';
 import DailyLesson from '@/components/DailyLesson';
 import MutDemo from '@/components/MutDemo';
 import Progress from '@/components/Progress';
+import WordOfDay from '@/components/WordOfDay';
 
 export default function Home() {
   return (
@@ -10,6 +11,10 @@ export default function Home() {
         <h1>Dysgu Cymraeg</h1>
         <p className="sub">Learn Welsh with short lessons, flashcards and quizzes.</p>
         <MutDemo />
+      </section>
+      <section>
+        <h2 className="h2">Gair y Dydd — word of the day</h2>
+        <WordOfDay />
       </section>
       <section>
         <h2 className="h2">Today&rsquo;s lesson</h2>

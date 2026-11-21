@@ -1,10 +1,13 @@
 'use client';
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Dialect } from './data';
-import { todayStr, todaysLesson, yesterdayStr } from './daily';
+import { todayStr, todaysLesson, todaysWord, yesterdayStr } from './daily';
 
 export type Direction = 'cy2en' | 'en2cy';
 const KEY = 'dysgu-cymraeg-v2';
+
+/** One entry in a visitor's private word-of-the-day journal, keyed by date (YYYY-MM-DD). */
+export type JournalEntry = { wordCy: string; wordEn: string; sentence: string; ts: number };
 
 type Ctx = {
   ready: boolean;
@@ -21,6 +24,10 @@ type Ctx = {
   dailyStreak: number;
   /** Call with the lesson/deck id just finished; only counts if it's today's daily lesson. */
   completeDailyIfToday: (lessonId: string) => void;
+  /** Private, browser-only record of past word-of-the-day sentences, keyed by date. */
+  journal: Record<string, JournalEntry>;
+  /** Save today's word-of-the-day sentence and count today as practised. */
+  submitWordOfDay: (sentence: string) => void;
   reset: () => void;
 };
 
@@ -34,6 +41,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const [scores, setScores] = useState<Record<string, number>>({});
   const [dailyLastDate, setDailyLastDate] = useState<string | null>(null);
   const [dailyStreak, setDailyStreak] = useState(0);
+  const [journal, setJournal] = useState<Record<string, JournalEntry>>({});
 
   useEffect(() => {
     try {
@@ -46,6 +54,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
         if (p.scores) setScores(p.scores);
         if (typeof p.dailyLastDate === 'string' || p.dailyLastDate === null) setDailyLastDate(p.dailyLastDate ?? null);
         if (typeof p.dailyStreak === 'number') setDailyStreak(p.dailyStreak);
+        if (p.journal) setJournal(p.journal);
       }
     } catch {}
     setReady(true);
@@ -54,32 +63,45 @@ export function AppProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     if (!ready) return;
     try {
-      localStorage.setItem(KEY, JSON.stringify({ dialect, direction, learned, scores, dailyLastDate, dailyStreak }));
+      localStorage.setItem(KEY, JSON.stringify({ dialect, direction, learned, scores, dailyLastDate, dailyStreak, journal }));
     } catch {}
-  }, [ready, dialect, direction, learned, scores, dailyLastDate, dailyStreak]);
+  }, [ready, dialect, direction, learned, scores, dailyLastDate, dailyStreak, journal]);
 
   const markLearned = useCallback((key: string) => setLearned(l => ({ ...l, [key]: true })), []);
   const saveScore = useCallback(
     (id: string, pct: number) => setScores(s => (s[id] != null && s[id] >= pct ? s : { ...s, [id]: pct })),
     []
   );
-  const completeDailyIfToday = useCallback((lessonId: string) => {
-    if (lessonId !== todaysLesson().id) return;
+  // Shared by both ways of "practising today": finishing today's lesson quiz/cards,
+  // or writing today's word-of-the-day sentence. One quiet streak, not several.
+  const markTodayPractised = useCallback(() => {
     const today = todayStr();
     setDailyLastDate(prevDate => {
-      if (prevDate === today) return prevDate; // already completed today
+      if (prevDate === today) return prevDate; // already counted today
       setDailyStreak(prevStreak => (prevDate === yesterdayStr() ? prevStreak + 1 : 1));
       return today;
     });
   }, []);
-  const reset = useCallback(() => { setLearned({}); setScores({}); setDailyLastDate(null); setDailyStreak(0); }, []);
+  const completeDailyIfToday = useCallback((lessonId: string) => {
+    if (lessonId !== todaysLesson().id) return;
+    markTodayPractised();
+  }, [markTodayPractised]);
+  const submitWordOfDay = useCallback((sentence: string) => {
+    const trimmed = sentence.trim();
+    if (!trimmed) return;
+    const today = todayStr();
+    const word = todaysWord();
+    setJournal(j => (j[today] ? j : { ...j, [today]: { wordCy: word.cy, wordEn: word.en, sentence: trimmed, ts: Date.now() } }));
+    markTodayPractised();
+  }, [markTodayPractised]);
+  const reset = useCallback(() => { setLearned({}); setScores({}); setDailyLastDate(null); setDailyStreak(0); setJournal({}); }, []);
 
   const value = useMemo(
     () => ({
       ready, dialect, setDialect, direction, setDirection, learned, markLearned, scores, saveScore,
-      dailyLastDate, dailyStreak, completeDailyIfToday, reset,
+      dailyLastDate, dailyStreak, completeDailyIfToday, journal, submitWordOfDay, reset,
     }),
-    [ready, dialect, direction, learned, markLearned, scores, saveScore, dailyLastDate, dailyStreak, completeDailyIfToday, reset]
+    [ready, dialect, direction, learned, markLearned, scores, saveScore, dailyLastDate, dailyStreak, completeDailyIfToday, journal, submitWordOfDay, reset]
   );
   return <AppCtx.Provider value={value}>{children}</AppCtx.Provider>;
 }

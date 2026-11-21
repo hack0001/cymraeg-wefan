@@ -157,3 +157,20 @@ td.k{font-family:var(--display);font-weight:700}
 .daily.daily-done{border:2px solid var(--green)}
 .daily-line{font-size:1.05rem;line-height:1.5;margin:0;max-width:none}
 .daily .actions{margin-top:1rem}
+
+/* word of the day */
+.wotd{background:var(--surface);border-radius:14px;padding:1.2rem 1.1rem}
+.wotd.wotd-prompt{border:2px solid var(--gorse)}
+.wotd.wotd-done{border:2px solid var(--green)}
+.wotd-word{font-family:var(--display);font-size:1.2rem;margin:0 0 .4rem}
+.wotd-word b{font-weight:700}
+.wotd-sentence{font-size:1.1rem;font-style:italic;color:var(--ink);margin:.6rem 0;max-width:none}
+.wotd-line{color:var(--muted);font-size:.95rem;margin:0}
+.wotd-input{width:100%;box-sizing:border-box;margin-top:.8rem;background:var(--bg);border:2px solid var(--line);border-radius:10px;padding:.7rem .8rem;font-family:var(--text);font-size:1.05rem;color:var(--ink);resize:vertical}
+.wotd-input:focus-visible{border-color:var(--ink)}
+.wotd .actions{margin-top:.9rem}
+
+/* journal */
+.links li .j-date{display:block;color:var(--muted);font-size:.85rem;font-family:var(--display)}
+.links li .j-word{font-family:var(--display);font-weight:700;font-size:1.15rem}
+.links li .j-sentence{display:block;font-style:italic;color:var(--ink);margin-top:.3rem}

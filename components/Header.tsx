@@ -8,6 +8,7 @@ const NAV = [
   { href: '/', label: 'Home', match: (p: string) => p === '/' },
   { href: '/lessons', label: 'Lessons', match: (p: string) => p.startsWith('/lessons') || p.startsWith('/quiz') },
   { href: '/cards/all', label: 'Cards', match: (p: string) => p.startsWith('/cards') },
+  { href: '/journal', label: 'Journal', match: (p: string) => p.startsWith('/journal') },
   { href: '/sounds', label: 'Sounds', match: (p: string) => p.startsWith('/sounds') },
   { href: '/mutations', label: 'Mutations', match: (p: string) => p.startsWith('/mutations') },
   { href: '/resources', label: 'Resources', match: (p: string) => p.startsWith('/resources') },

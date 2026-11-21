@@ -3726,5 +3726,275 @@
         "mnemonic": "A softened fues i'n gweithio — the f drops in casual speech, same meaning either way."
       }
     ]
+  },
+  {
+    "id": "bod-clauses",
+    "title": "That...: linking clauses with bod",
+    "cy": "Bod",
+    "blurb": "Welsh uses bod (or a mutated/conjugated form of it) wherever English uses 'that' to report what someone thinks, says, hears, or knows — and unlike English, Welsh never drops it.",
+    "items": [
+      {
+        "cy": "fy mod i",
+        "en": "that I am / that I was",
+        "pr": "vuh mohd ee",
+        "mnemonic": "fy (my) + bod (be), nasal-mutated b→m — fy always does this, same mutation as fy nghath (my cat)."
+      },
+      {
+        "cy": "dy fod di",
+        "en": "that you are / that you were (familiar)",
+        "pr": "duh vohd dee",
+        "mnemonic": "dy (your) + bod soft-mutated to fod — dy always softens the next word, same as dy gath (your cat)."
+      },
+      {
+        "cy": "ei fod e",
+        "en": "that he is / that he was",
+        "pr": "ay vohd eh",
+        "mnemonic": "ei meaning 'his' soft-mutates bod to fod — this ei always mutates, just like ei gath (his cat)."
+      },
+      {
+        "cy": "ei bod hi",
+        "en": "that she is / that she was",
+        "pr": "ay bohd hee",
+        "mnemonic": "ei meaning 'her' causes NO mutation, so bod stays bod — the one difference between 'his' and 'her' ei."
+      },
+      {
+        "cy": "ein bod ni",
+        "en": "that we are / that we were",
+        "pr": "ayn bohd nee",
+        "mnemonic": "ein (our) + bod, unmutated — picture a whole group ('ein', sounds like 'ain't') simply 'being' together."
+      },
+      {
+        "cy": "eich bod chi",
+        "en": "that you are / that you were (plural)",
+        "pr": "aykh bohd khee",
+        "mnemonic": "eich (your-plural) + bod, unmutated — the longest-looking one, but no sound change at all."
+      },
+      {
+        "cy": "eu bod nhw",
+        "en": "that they are / that they were",
+        "pr": "ay bohd noo",
+        "mnemonic": "eu (their) + bod, unmutated — eu and ei sound almost identical, context tells them apart."
+      },
+      {
+        "cy": "dw i'n credu fy mod i'n iawn",
+        "en": "I think that I am right",
+        "pr": "doo een KRED-ee vuh mohd een yown",
+        "mnemonic": "credu (believe/think) + fy mod i'n iawn (that I'm right) — straight from the lesson's own example."
+      },
+      {
+        "cy": "dwedodd e dy fod di'n egnïol",
+        "en": "he said that you were energetic",
+        "pr": "DWED-odd eh duh vohd dee'n eg-NEE-ol",
+        "mnemonic": "dwedodd e (he said) + dy fod di'n egnïol (that you were energetic) — notice fod, not bod, after dy."
+      },
+      {
+        "cy": "clywon ni ei bod hi'n mynd i fwrw",
+        "en": "we heard that it was going to rain",
+        "pr": "KLOO-on nee ay bohd heen mind ee VOOR-oo",
+        "mnemonic": "clywon ni (we heard) + ei bod hi (that it, feminine 'hi') — weather is always 'hi' (she) in Welsh."
+      },
+      {
+        "cy": "mae hi'n meddwl ei fod e'n afiach",
+        "en": "she thinks that it's unhealthy",
+        "pr": "my heen MED-ool ay vohd en AV-yakh",
+        "mnemonic": "meddwl (think) + ei fod e'n afiach (that it's unhealthy) — from the lesson's smoking-opinion example."
+      },
+      {
+        "cy": "oherwydd bod ei batri hi'n fflat",
+        "en": "because her battery was flat",
+        "pr": "oh-HER-widd bohd ay BAT-ree heen flat",
+        "mnemonic": "oherwydd (because) + bod — bod does the same linking job after 'because' as it does after 'think' or 'say'."
+      },
+      {
+        "cy": "sylweddolais i fod y batri'n fflat",
+        "en": "I realised that the battery was flat",
+        "pr": "sil-weh-DHOL-ais ee vohd uh BAT-ree'n flat",
+        "mnemonic": "sylweddolais i (I realised) + fod y batri (that the battery) — fod because it follows 'i', just like the dialogue's own line."
+      },
+      {
+        "cy": "mae'r dyn hwn yn meddwl eich bod chi'n brydferth",
+        "en": "this man thinks (that) you are beautiful",
+        "pr": "my'r deen hoon in MED-ool aykh bohd kheen BRID-ferth",
+        "mnemonic": "In English 'that' can vanish here — in Welsh, bod never does."
+      }
+    ]
+  },
+  {
+    "id": "opinions",
+    "title": "Giving your opinion",
+    "cy": "Barn",
+    "blurb": "The everyday way to ask and answer 'what do you think?' in Welsh — built on meddwl (think) and credu (believe) plus the bod-clause forms from the previous lesson.",
+    "items": [
+      {
+        "cy": "beth dych chi'n ei feddwl o...?",
+        "en": "what do you think about...?",
+        "pr": "beth deekh kheen ay VED-ool oh",
+        "mnemonic": "beth (what) + dych chi'n ei feddwl o (you think of it) — the standard way to ask for someone's take."
+      },
+      {
+        "cy": "beth yw'ch barn chi am...?",
+        "en": "what is your opinion about...?",
+        "pr": "beth yookh barn khee am",
+        "mnemonic": "barn = opinion — a more formal-sounding twin of the question above, same meaning."
+      },
+      {
+        "cy": "dw i'n credu ei fod e'n ddiddorol iawn",
+        "en": "I think it's very interesting",
+        "pr": "doo een KRED-ee ay vohd en ddi-DOR-ol yown",
+        "mnemonic": "credu (believe/think) + ei fod e'n (that it's) — the lesson's own answer about the news."
+      },
+      {
+        "cy": "dw i'n credu ei bod hi'n wych",
+        "en": "I think it's excellent",
+        "pr": "doo een KRED-ee ay bohd heen weekh",
+        "mnemonic": "ei bod hi (that it is, feminine) — cerddoriaeth (music) is feminine, so it takes 'hi'."
+      },
+      {
+        "cy": "dw i'n credu eu bod nhw'n ddiflas",
+        "en": "I think they're boring",
+        "pr": "doo een KRED-ee ay bohd noon DDIV-las",
+        "mnemonic": "eu bod nhw (that they are) — plural things like operâu sebon (soap operas) take 'nhw'."
+      },
+      {
+        "cy": "gwych",
+        "en": "excellent, brilliant",
+        "pr": "gooikh",
+        "mnemonic": "Short and punchy, like the English exclamation it's often paired with — 'gwych!'"
+      },
+      {
+        "cy": "ardderchog",
+        "en": "excellent",
+        "pr": "ar-DDER-khog",
+        "mnemonic": "A grander, more formal-sounding cousin of gwych — same meaning, extra syllables for extra enthusiasm."
+      },
+      {
+        "cy": "diflas",
+        "en": "boring, miserable",
+        "pr": "DIV-las",
+        "mnemonic": "Picture a flat, lifeless (dif-) day — diflas covers both 'boring' and 'miserable weather'."
+      },
+      {
+        "cy": "ofnadwy",
+        "en": "terrible, awful",
+        "pr": "ov-NAD-wee",
+        "mnemonic": "Built on ofn (fear) — something ofnadwy is fear-worthy, i.e. terrible."
+      },
+      {
+        "cy": "afiach",
+        "en": "unhealthy, disgusting",
+        "pr": "AV-yakh",
+        "mnemonic": "The negative a- prefix + iach (healthy) — literally 'un-healthy'."
+      },
+      {
+        "cy": "clasurol",
+        "en": "classical",
+        "pr": "kla-SEER-ol",
+        "mnemonic": "Looks and sounds just like the English 'classical' — a direct cognate."
+      },
+      {
+        "cy": "syniad da",
+        "en": "a good idea",
+        "pr": "SUN-yad da",
+        "mnemonic": "syniad (idea) + da (good) — same word order as English."
+      },
+      {
+        "cy": "syniad drwg",
+        "en": "a bad idea",
+        "pr": "SUN-yad droog",
+        "mnemonic": "syniad (idea) + drwg (bad) — the opposite pairing of syniad da."
+      },
+      {
+        "cy": "dw i'n ei gasáu cymaint",
+        "en": "I hate it so much",
+        "pr": "doo een ay ga-SIGH KUM-aint",
+        "mnemonic": "casáu (to hate) + cymaint (so much) — about as strong as Welsh opinions get."
+      },
+      {
+        "cy": "mae'n dibynnu",
+        "en": "it depends",
+        "pr": "mine dee-BUN-ee",
+        "mnemonic": "dibynnu sounds like 'depend-u' — a useful hedge when you're not sure."
+      }
+    ]
+  },
+  {
+    "id": "driving-stories",
+    "title": "Driving & travel stories",
+    "cy": "Straeon gyrru",
+    "blurb": "Vocabulary and real sentences from a dialogue about learning to drive, accidents, and everyday travel — storytelling vocabulary for once you're past the basics.",
+    "items": [
+      {
+        "cy": "erioed",
+        "en": "never, ever (with a negative)",
+        "pr": "er-YOID",
+        "mnemonic": "Pairs with dw i ddim/dw i erioed wedi... to mean 'I've never ever...' — stronger than plain 'never'."
+      },
+      {
+        "cy": "damwain",
+        "en": "accident",
+        "pr": "DAM-wine",
+        "mnemonic": "Picture a 'damn' moment — a damwain is the accident that causes it."
+      },
+      {
+        "cy": "estron",
+        "en": "foreign, alien",
+        "pr": "ES-tron",
+        "mnemonic": "Close to English 'extraneous' — something estron comes from outside, foreign."
+      },
+      {
+        "cy": "prawf",
+        "en": "test, exam",
+        "pr": "prowf",
+        "mnemonic": "A prawf gyrru (driving test) proves whether you can drive — same root idea as English 'prove'."
+      },
+      {
+        "cy": "hunllefus",
+        "en": "nightmarish",
+        "pr": "hin-LLEV-is",
+        "mnemonic": "Built on hunllef (nightmare) — hunllefus describes anything that feels like one."
+      },
+      {
+        "cy": "diffodd",
+        "en": "to turn off, to extinguish",
+        "pr": "DIFF-odd",
+        "mnemonic": "A diffoddwr tân (firefighter) diffodds (extinguishes) fires — same verb, lights or flames."
+      },
+      {
+        "cy": "gwifren gyswllt",
+        "en": "jump lead",
+        "pr": "GWEE-vren GUS-oollth",
+        "mnemonic": "gwifren (wire) + cyswllt (connection/contact) — a 'connecting wire', exactly what a jump lead is."
+      },
+      {
+        "cy": "presennol",
+        "en": "present, current",
+        "pr": "pre-SEN-ol",
+        "mnemonic": "Looks like English 'present' — fy nghar presennol = 'my present/current car'."
+      },
+      {
+        "cy": "cadw sŵn",
+        "en": "to make a noise",
+        "pr": "KAD-oo soon",
+        "mnemonic": "cadw (keep) + sŵn (noise/sound) — literally 'keep noise', i.e. carry on making one."
+      },
+      {
+        "cy": "dw i erioed wedi gyrru mewn gwlad lle maen nhw'n gyrru o'r chwith",
+        "en": "I've never driven in a country where they drive on the left",
+        "pr": "doo ee er-YOID WED-ee GUR-ee mewn gwlad lheh mine noon GUR-ee or khweeth",
+        "mnemonic": "erioed wedi gyrru (ever driven) + gwlad lle... (a country where...) — the dialogue's own nervous-driver line."
+      },
+      {
+        "cy": "anghofiais i ddiffodd y goleuadau",
+        "en": "I forgot to turn off the lights",
+        "pr": "an-GHOV-yais ee DDIFF-odd uh gol-AY-ad-eye",
+        "mnemonic": "anghofiais i (I forgot) + ddiffodd (to turn off, soft-mutated) + y goleuadau (the lights) — the cause of the flat battery."
+      },
+      {
+        "cy": "digwyddodd yr un peth i fi",
+        "en": "the same thing happened to me",
+        "pr": "dig-OOY-ddodd uhr een peth ee vee",
+        "mnemonic": "digwyddodd (happened) + yr un peth (the same thing) — yr un = 'the same', peth = 'thing'."
+      }
+    ]
   }
 ]
